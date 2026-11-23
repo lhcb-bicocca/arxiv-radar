@@ -1,0 +1,759 @@
+{
+ "date": "2026-11-23",
+ "generated": "2026-11-23T18:09+00:00",
+ "window": [
+  "2026-11-19T18:09+00:00",
+  "2026-11-23T18:09+00:00"
+ ],
+ "scanned": 223,
+ "topics": {
+  "charm": [
+   {
+    "id": "2611.27786",
+    "url": "https://arxiv.org/abs/2611.27786",
+    "title": "Balancing heavy flavour: Quantum number compensation in the hadronisation of charm and beauty particles in proton-proton collisions",
+    "abstract": "The hadronisation of heavy quarks remains one of the least understood processes of Quantum Chromodynamics (QCD). While the production of heavy quark pairs can be calculated perturbatively in QCD, the subsequent formation of hadrons involves non-perturbative processes. The description of these processes is predominantly model dependent and sensitive to the underlying mechanisms of colour reconnection and string fragmentation. In particular, the conservation of flavour, baryon number and charge imposes constraints on how heavy-flavour hadrons are formed and balanced within the final state. In this work, we study how the quantum numbers associated with charm and beauty production are balanced in proton-proton collisions, using events simulated with the PYTHIA-8 event generator. Starting from perturbatively produced ($c\\overline{c}$) and ($b\\overline{b}$) pairs, we examine how the formation of heavy-flavour mesons and baryons, including $D^0$, $B^+$, $Λ_c^+$, and $Λ_b^0$, is accompanied by compensating particles elsewhere. The analysis focuses on correlations between the identified heavy hadron and the hadronic system responsible for balancing its conserved quantum numbers. We compare three hadronisation configurations that are implemented in PYTHIA: the Monash tune, colour-reconnection models incorporating string junctions (SJ), and close-packing (CP) approaches. We find that the SJ and CP tunes show a substantially enhanced contribution of baryons to the charm and beauty balancing yields compared with the Monash tune; this enhancement becomes more pronounced in high-multiplicity events. This study introduces a framework for characterising quantum-number compensation in heavy-flavour production and provides a new way to test hadronisation dynamics using identified charm- and beauty-hadron correlations, which can be explored at current and future collider experiments.",
+    "authors": [
+     "Iñaki Pardo Zambrana",
+     "Paul Veen",
+     "K. Keri Vos",
+     "Panos Christakoglou"
+    ],
+    "published": "2026-11-20T16:17:28Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-ex"
+    ],
+    "topics": [
+     "charm",
+     "b"
+    ]
+   },
+   {
+    "id": "2611.27363",
+    "url": "https://arxiv.org/abs/2611.27363",
+    "title": "Mass Spectra and Radiative Decay Widths of \\(D_{s0}^{*}(2317)^+\\), \\(D_{s1}(2460)^+\\) and \\(D'_{s1}(2536)^+\\)",
+    "abstract": "Inspired by recent experimental reports on the radiative decay \\(D_{s1}(2460)^{+}\\to D_s^{*+}γ\\) and the branching-fraction ratio \\(\\mathcal{B}[D_{s1}(2460)^{+}\\to D_s^{*+}γ]/\\mathcal{B}[D_{s1}(2460)^{+}\\to D_s^{+}γ]\\), we investigate the mass spectra and radiative decay widths of \\(D_{s0}^{*}(2317)^+\\), \\(D_{s1}(2460)^+\\) and \\(D_{s1}'(2536)^+\\). Within the chiral quark model combined with the Gaussian Expansion Method, the mass spectra obtained agree reasonably well with the experimental data. Besides, the branching-fraction ratio obtained in this work is \\(\\mathcal{B}[D_{s1}(2460)^{+}\\to D_s^{*+}γ]/\\mathcal{B}[D_{s1}(2460)^{+}\\to D_s^{+}γ] = 0.57\\) and \\(Γ(D_{s0}^{*}(2317)^{+}\\to D_s^{*+}γ) = 3.80\\,\\mathrm{keV}\\). By analyzing our theoretical results against the latest experimental measurements, we conclude that the \\(D_{s1}(2460)^{+}\\) can be treated as a mixed state of \\(1^1P_1\\) and \\(1^3P_1\\), and it may contain both the \\(c\\bar{s}\\) component and the tetraquark component. In addition, we also obtain \\(Γ(D'_{s1}(2536)^{+}\\to D_s^{*+}γ) = 9.14\\,\\mathrm{keV}\\) and \\(Γ(D'_{s1}(2536)^{+}\\to D_s^{+}γ) = 8.59\\,\\mathrm{keV}\\) by treating \\(D'_{s1}(2536)^+\\) as a meson state. More precise experimental data are required to pin down the internal structure of these states.",
+    "authors": [
+     "Shirui Zhao",
+     "Yuxuan Du",
+     "Manying Pan",
+     "Hongxia Huang",
+     "Jialun Ping"
+    ],
+    "published": "2026-11-20T09:32:15Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-ex",
+     "nucl-th"
+    ],
+    "topics": [
+     "charm",
+     "spectroscopy"
+    ]
+   },
+   {
+    "id": "2611.27716",
+    "url": "https://arxiv.org/abs/2611.27716",
+    "title": "Challenging the Körner-Pati-Woo Theorem in Charmed Baryon Decays",
+    "abstract": "The Körner-Pati-Woo (KPW) theorem is a long-standing selection rule widely used in heavy-baryon decays. In this work, we argue that the conventional valence-color argument underlying the KPW theorem does not, by itself, establish an exact selection rule. The $\\rm KPW$-$\\rm SU(3)_F$ prediction for $\\mathcal{B}(Ξ_c^0\\to pK^-)$, inferred from $Λ_c^+\\to Ξ^0K^+$, is $17.2\\pm6.0$ times the measured value. A joint likelihood fit to five observables in $Ξ_c^0\\to pK^-$ and $Λ_c^+\\to Ξ^0K^+$ yields a $6.3σ$ discrepancy under the $\\rm KPW$-$\\rm SU(3)_F$ ansatz. A comparison of $α(Λ_c^+\\to Δ^{++}K^-)$ and $α(Λ_c^+\\to Σ^{*}π)$ reveals a pronounced sign-sensitive tension. Accommodating these measurements within the KPW constraint requires anomalously large $\\rm SU(3)_F$ breaking effects. Future measurements of $Λ^+_c\\toΣ^{(*)0}K^+$, $Σ^{(*)+}K^0_S$, $Δ^+η^{(\\prime)}$, $Δ^{++}π^-$, $Δ^+π^0$, $Δ^0π^+$, $Δ^{++}K^-$, and $Δ^{+}K^0_S$ would provide high-precision tests of the KPW theorem.",
+    "authors": [
+     "Di Wang",
+     "Ying-Xin Lai",
+     "Fu-Sheng Yu"
+    ],
+    "published": "2026-11-20T15:21:58Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph"
+    ],
+    "topics": [
+     "charm"
+    ]
+   },
+   {
+    "id": "2611.27612",
+    "url": "https://arxiv.org/abs/2611.27612",
+    "title": "Analysis of the triply-charm tetraquark states via the QCD sum rules",
+    "abstract": "In this work, we construct the diquark-antidiquark type local currents to interpolate the triply-charm tetraquark states, and investigate the spectroscopy of the scalar, axialvector and tensor triply-charm tetraquark states via the QCD sum rules comprehensively. As a byproduct, we obtain the masses of four vector triply-charm tetraquark states.",
+    "authors": [
+     "Zhi-Gang Wang"
+    ],
+    "published": "2026-11-20T13:42:52Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph"
+    ],
+    "topics": [
+     "charm",
+     "spectroscopy"
+    ]
+   }
+  ],
+  "cp": [
+   {
+    "id": "2611.27985",
+    "url": "https://arxiv.org/abs/2611.27985",
+    "title": "Is Neutrino Disappearance Sensitive to T-Violation for Asymmetric Matter Profiles ?",
+    "abstract": "It is commonly stated in the literature that T violation is zero in neutrino disappearance channels. We show this claim is not general: it holds only for symmetric matter profiles or when the T/CP-violating phase ($δ$) is 0 or $π$, that is, when the Jarlskog invariant is zero. The $ν_μ$ and $ν_τ$, but not the $ν_e$, survival probabilities carry a $\\sinδ$-dependent term that is non-zero in asymmetric matter and constitutes a genuine T asymmetry. The confusion arises from an improper T test that subtracts a probability from itself: a mathematical identity, not a physics result. In this paper, we clarify the distinctions between a proper and an improper T test as well as the proper and improper CP and CPT tests, for a general, arbitrary matter profile. For a toy model consisting of two different layers of constant density, we find that the maximum T-violation is obtained when one layer is close to the solar resonance, and the other is close to the atmospheric resonance. We address whether the matter asymmetry for DUNE and Hyper-Kamiokande experiments is sufficiently large to allow the $\\sinδ$ dependence to be probed in $ν_μ$ survival probability. We also discuss future experimental scenarios that could probe T/CP-violation in $ν_μ$ survival probability.",
+    "authors": [
+     "Gabriela Barenboim",
+     "Stephen J. Parke",
+     "Alberto Sánchez Vargas"
+    ],
+    "published": "2026-11-20T18:59:54Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-ex"
+    ],
+    "topics": [
+     "cp"
+    ]
+   },
+   {
+    "id": "2611.27549",
+    "url": "https://arxiv.org/abs/2611.27549",
+    "title": "nuSTORM: a unique GeV electron-(anti)neutrino machine",
+    "abstract": "In this conference contribution, I briefly review current experimental programmes measuring the Dirac CP phase δCP using accelerator neutrinos. I argue that the nuSTORM concept---neutrino beams from a muon storage ring---could provide high-quality electron-(anti)neutrino beams needed for the cross-section inputs to δCP measurements.",
+    "authors": [
+     "Xianguo Lu"
+    ],
+    "published": "2026-11-20T12:46:05Z",
+    "primary": "physics.acc-ph",
+    "cats": [
+     "physics.acc-ph",
+     "hep-ex",
+     "nucl-ex"
+    ],
+    "topics": [
+     "cp"
+    ]
+   },
+   {
+    "id": "2611.27944",
+    "url": "https://arxiv.org/abs/2611.27944",
+    "title": "Probing CP violation in weak radiative and dielectron decays of $Λ$ and $Ξ^-$ hyperons",
+    "abstract": "The rare decays $Λ\\to ne^+e^-$ and $Ξ^-\\toΣ^-e^+e^-$ can serve as sensitive probes of $CP$ violation, especially that induced by interactions from beyond the standard model. We demonstrate that this is so because the dominant long-distance components of these processes provide sizable absorptive phases that can give rise to significant $CP$ violation via interference with potential new-physics effects. Treating the new contributions model-independently, we find that this leads to $CP$-odd rate asymmetries that are currently allowed by kaon and hyperon data to reach the 10% and 20% levels in the $Λ$ and $Ξ^-$ cases, respectively. Interestingly, we obtain comparable outcomes for the related weak radiative modes $Λ\\to nγ$ and $Ξ^-\\toΣ^-γ$. These results are testable at future high-statistics hyperon facilities.",
+    "authors": [
+     "Xiao-Gang He",
+     "Jusak Tandean",
+     "German Valencia"
+    ],
+    "published": "2026-11-20T18:17:31Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph"
+    ],
+    "topics": [
+     "cp"
+    ]
+   }
+  ],
+  "b": [
+   {
+    "id": "2611.27786",
+    "url": "https://arxiv.org/abs/2611.27786",
+    "title": "Balancing heavy flavour: Quantum number compensation in the hadronisation of charm and beauty particles in proton-proton collisions",
+    "abstract": "The hadronisation of heavy quarks remains one of the least understood processes of Quantum Chromodynamics (QCD). While the production of heavy quark pairs can be calculated perturbatively in QCD, the subsequent formation of hadrons involves non-perturbative processes. The description of these processes is predominantly model dependent and sensitive to the underlying mechanisms of colour reconnection and string fragmentation. In particular, the conservation of flavour, baryon number and charge imposes constraints on how heavy-flavour hadrons are formed and balanced within the final state. In this work, we study how the quantum numbers associated with charm and beauty production are balanced in proton-proton collisions, using events simulated with the PYTHIA-8 event generator. Starting from perturbatively produced ($c\\overline{c}$) and ($b\\overline{b}$) pairs, we examine how the formation of heavy-flavour mesons and baryons, including $D^0$, $B^+$, $Λ_c^+$, and $Λ_b^0$, is accompanied by compensating particles elsewhere. The analysis focuses on correlations between the identified heavy hadron and the hadronic system responsible for balancing its conserved quantum numbers. We compare three hadronisation configurations that are implemented in PYTHIA: the Monash tune, colour-reconnection models incorporating string junctions (SJ), and close-packing (CP) approaches. We find that the SJ and CP tunes show a substantially enhanced contribution of baryons to the charm and beauty balancing yields compared with the Monash tune; this enhancement becomes more pronounced in high-multiplicity events. This study introduces a framework for characterising quantum-number compensation in heavy-flavour production and provides a new way to test hadronisation dynamics using identified charm- and beauty-hadron correlations, which can be explored at current and future collider experiments.",
+    "authors": [
+     "Iñaki Pardo Zambrana",
+     "Paul Veen",
+     "K. Keri Vos",
+     "Panos Christakoglou"
+    ],
+    "published": "2026-11-20T16:17:28Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-ex"
+    ],
+    "topics": [
+     "charm",
+     "b"
+    ]
+   },
+   {
+    "id": "2611.26691",
+    "url": "https://arxiv.org/abs/2611.26691",
+    "title": "The cosmological lithium problem and how decaying relics still solve it",
+    "abstract": "Lithium-7 in old stars is about three times below the prediction of standard big-bang nucleosynthesis, and deuterium lies slightly above it. Precise measurements of deuterium, helium-4, and the effective number of neutrino species now disfavor most previously proposed particle solutions. We find that relics that decay or evaporate with lifetimes of a few hours, mostly into electron antineutrinos of about a hundred MeV and into electrons or photons, still lower lithium-7 while respecting these measurements. Such relics include gauge bosons of $L_e-L_τ$ or $B-3L_e$ and heavy neutral leptons with a dipole coupling or mixing with $ν_τ$, with masses of a few hundred MeV, and populations of evaporating Q-balls that carry lepton number. The decaying particles substantially alleviate the lithium problem, while Q-ball populations reach the $2σ$ range of lithium-7 adopted by the Particle Data Group. These relics can shift the effective number of neutrino species by up to about $2.5$ times the precision expected from the Simons Observatory, and a future Galactic supernova can test the particles.",
+    "authors": [
+     "Maksym Ovchynnikov"
+    ],
+    "published": "2026-11-19T19:00:07Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph"
+    ],
+    "topics": [
+     "b"
+    ]
+   },
+   {
+    "id": "2611.27014",
+    "url": "https://arxiv.org/abs/2611.27014",
+    "title": "Evidence for Y-shaped color confinement of fully heavy baryons",
+    "abstract": "The geometry of color confinement in baryons remains a fundamental question in quantum chromodynamics. We investigate whether heavy-quark spectroscopy can distinguish a genuine three-body Y-shaped confining interaction from a sum of pairwise $Δ$-shaped interaction. Using a high-precision three-body Schrödinger solver, we perform a simultaneous analysis of experimentally measured bottomonium masses and lattice-QCD calculations of $Ω_{bbb}$ excitation energies. For each confinement scenario, interaction parameters are independently optimized against the combined spectra. We find that the Y-shaped potential provides a consistent description of both systems, whereas the $Δ$-shaped potential exhibits significant discrepancies. Our results provide spectroscopic evidence favoring a collective three-body confining interaction and establish triply-heavy baryon spectroscopy as a complementary probe of the nonperturbative geometry of color confinement.",
+    "authors": [
+     "Jiaxing Zhao",
+     "Shuzhe Shi",
+     "Pengfei Zhuang"
+    ],
+    "published": "2026-11-20T02:44:38Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-lat",
+     "nucl-th"
+    ],
+    "topics": [
+     "b",
+     "spectroscopy"
+    ]
+   }
+  ],
+  "spectroscopy": [
+   {
+    "id": "2611.27363",
+    "url": "https://arxiv.org/abs/2611.27363",
+    "title": "Mass Spectra and Radiative Decay Widths of \\(D_{s0}^{*}(2317)^+\\), \\(D_{s1}(2460)^+\\) and \\(D'_{s1}(2536)^+\\)",
+    "abstract": "Inspired by recent experimental reports on the radiative decay \\(D_{s1}(2460)^{+}\\to D_s^{*+}γ\\) and the branching-fraction ratio \\(\\mathcal{B}[D_{s1}(2460)^{+}\\to D_s^{*+}γ]/\\mathcal{B}[D_{s1}(2460)^{+}\\to D_s^{+}γ]\\), we investigate the mass spectra and radiative decay widths of \\(D_{s0}^{*}(2317)^+\\), \\(D_{s1}(2460)^+\\) and \\(D_{s1}'(2536)^+\\). Within the chiral quark model combined with the Gaussian Expansion Method, the mass spectra obtained agree reasonably well with the experimental data. Besides, the branching-fraction ratio obtained in this work is \\(\\mathcal{B}[D_{s1}(2460)^{+}\\to D_s^{*+}γ]/\\mathcal{B}[D_{s1}(2460)^{+}\\to D_s^{+}γ] = 0.57\\) and \\(Γ(D_{s0}^{*}(2317)^{+}\\to D_s^{*+}γ) = 3.80\\,\\mathrm{keV}\\). By analyzing our theoretical results against the latest experimental measurements, we conclude that the \\(D_{s1}(2460)^{+}\\) can be treated as a mixed state of \\(1^1P_1\\) and \\(1^3P_1\\), and it may contain both the \\(c\\bar{s}\\) component and the tetraquark component. In addition, we also obtain \\(Γ(D'_{s1}(2536)^{+}\\to D_s^{*+}γ) = 9.14\\,\\mathrm{keV}\\) and \\(Γ(D'_{s1}(2536)^{+}\\to D_s^{+}γ) = 8.59\\,\\mathrm{keV}\\) by treating \\(D'_{s1}(2536)^+\\) as a meson state. More precise experimental data are required to pin down the internal structure of these states.",
+    "authors": [
+     "Shirui Zhao",
+     "Yuxuan Du",
+     "Manying Pan",
+     "Hongxia Huang",
+     "Jialun Ping"
+    ],
+    "published": "2026-11-20T09:32:15Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-ex",
+     "nucl-th"
+    ],
+    "topics": [
+     "charm",
+     "spectroscopy"
+    ]
+   },
+   {
+    "id": "2611.27612",
+    "url": "https://arxiv.org/abs/2611.27612",
+    "title": "Analysis of the triply-charm tetraquark states via the QCD sum rules",
+    "abstract": "In this work, we construct the diquark-antidiquark type local currents to interpolate the triply-charm tetraquark states, and investigate the spectroscopy of the scalar, axialvector and tensor triply-charm tetraquark states via the QCD sum rules comprehensively. As a byproduct, we obtain the masses of four vector triply-charm tetraquark states.",
+    "authors": [
+     "Zhi-Gang Wang"
+    ],
+    "published": "2026-11-20T13:42:52Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph"
+    ],
+    "topics": [
+     "charm",
+     "spectroscopy"
+    ]
+   },
+   {
+    "id": "2611.27014",
+    "url": "https://arxiv.org/abs/2611.27014",
+    "title": "Evidence for Y-shaped color confinement of fully heavy baryons",
+    "abstract": "The geometry of color confinement in baryons remains a fundamental question in quantum chromodynamics. We investigate whether heavy-quark spectroscopy can distinguish a genuine three-body Y-shaped confining interaction from a sum of pairwise $Δ$-shaped interaction. Using a high-precision three-body Schrödinger solver, we perform a simultaneous analysis of experimentally measured bottomonium masses and lattice-QCD calculations of $Ω_{bbb}$ excitation energies. For each confinement scenario, interaction parameters are independently optimized against the combined spectra. We find that the Y-shaped potential provides a consistent description of both systems, whereas the $Δ$-shaped potential exhibits significant discrepancies. Our results provide spectroscopic evidence favoring a collective three-body confining interaction and establish triply-heavy baryon spectroscopy as a complementary probe of the nonperturbative geometry of color confinement.",
+    "authors": [
+     "Jiaxing Zhao",
+     "Shuzhe Shi",
+     "Pengfei Zhuang"
+    ],
+    "published": "2026-11-20T02:44:38Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-lat",
+     "nucl-th"
+    ],
+    "topics": [
+     "b",
+     "spectroscopy"
+    ]
+   }
+  ],
+  "ml-hep": [
+   {
+    "id": "2611.27518",
+    "url": "https://arxiv.org/abs/2611.27518",
+    "title": "Probing Compressed Dark Sectors at a Muon Collider through Dilepton Signatures and Machine Learning",
+    "abstract": "The inert doublet model (IDM), a minimal extension of the Standard Model (SM), provides a scalar dark matter (DM) candidate that belongs to the additional Higgs doublet. The model faces challenges in achieving the correct relic abundance for compressed spectra and DM masses in the high-mass range. In this work we investigate the prospects of detecting dark matter candidates at future high-energy muon colliders. Focusing on the process $μ^+ μ^- \\to AH$ with subsequent decay $A \\to H Z^*$ and $Z^* \\to \\ell^+\\ell^-$, we explore the sensitivity of machine learning techniques, specifically Boosted Decision Trees (BDT) and XGBoost, to distinguish the signal from Standard Model backgrounds. We demonstrate that the combination of advanced multivariate analysis with high-luminosity muon collisions enhances the discovery potential for inert scalars in compressed mass spectra scenarios.",
+    "authors": [
+     "Mohamed Belfkir",
+     "Ayoub Hmissou",
+     "Larbi Rahili"
+    ],
+    "published": "2026-11-20T12:09:21Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph"
+    ],
+    "topics": [
+     "ml-hep"
+    ]
+   },
+   {
+    "id": "2611.27821",
+    "url": "https://arxiv.org/abs/2611.27821",
+    "title": "Sampling non-abelian lattice gauge theories with diffusion models",
+    "abstract": "We present gauge-equivariant diffusion models as samplers for lattice gauge theories (LGTs). Using lattice gauge-equivariant convolutional neural networks (L-CNNs) and the Metropolis-adjusted annealed Langevin algorithm (MAALA), we are able to accurately sample two-dimensional U(2) field configurations and show first promising results for four-dimensional SU(3). Our two-dimensional models extrapolate remarkably well to larger inverse couplings than originally trained on. We confirm this by comparing observables to analytically known values and to hybrid Monte Carlo results.",
+    "authors": [
+     "Gert Aarts",
+     "Diaa E. Habibi",
+     "Andreas Ipp",
+     "David I. Müller",
+     "Thomas R. Ranner",
+     "Lingxiao Wang",
+     "Wei Wang",
+     "Qianteng Zhu"
+    ],
+    "published": "2026-11-20T16:45:53Z",
+    "primary": "hep-lat",
+    "cats": [
+     "hep-lat",
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-hep"
+    ]
+   },
+   {
+    "id": "2611.27079",
+    "url": "https://arxiv.org/abs/2611.27079",
+    "title": "Weight-space programming and mechanistic interpretability for model editing in particle physics",
+    "abstract": "We demonstrate that weight-space programming and edits guided by sparse autoencoders can remove unwanted aspects of a particle-physics foundation model through direct edits to its weights. In a foundation model trained on jets, we observe that adding a single soft neutral particle causes large changes in jet classification, violating infrared safety. We locate the responsible attention heads with mechanistic analysis and trace the flaw's origin to pretraining on datasets with different reconstruction thresholds. We then propose two targeted approaches to repair the flaw: by removing three latent directions identified with sparse autoencoders, and by letting language-model agents edit the weights directly, without gradients and with only 50 queries to the model. Both their edits individually remove almost the entire flaw and leave the rest of the model's response nearly unchanged. Compared to fine-tuning, both methods change far fewer parameters. Although built only on $W$ and QCD jets, the edits carry over to all signal classes, the pretrained generator, and a newly trained regression head.",
+    "authors": [
+     "Raphaël Bonnet-Guerrini",
+     "Johann Ioannou-Nikolaides",
+     "Troels Petersen"
+    ],
+    "published": "2026-11-20T03:46:32Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "cs.AI",
+     "cs.LG",
+     "hep-ex"
+    ],
+    "topics": [
+     "ml-hep"
+    ]
+   }
+  ],
+  "ml-methods": [
+   {
+    "id": "2611.26856",
+    "url": "https://arxiv.org/abs/2611.26856",
+    "title": "Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series",
+    "abstract": "We develop self-supervised methods for training Recursive Quadrature Filter (RQF) encoders on unlabeled time series. RQFs are biologically motivated, complex-valued temporal filters that form a special class of diagonal state-space models (SSMs). Each RQF acts as a band-pass filter whose selectivity is determined by two learnable parameters: its tuning frequency and bandwidth. We separately introduce a self-supervised learning objective based on prediction error; the encoder is trained so that its current state predicts its own future activity. In the windowed mode, the summary of the current window predicts the summary of a later window; in the dense mode, the state at the current timestep predicts future log-power. Each RQF encoder is pretrained on a dataset and then a readout (e.g., a task-specific classifier) is trained on the output of the RQF encoder, with the encoder either frozen or fully fine-tuned. For multichannel EEG and intracranial recordings, a shared encoder processes each channel separately, and a spatial readout combines the channel representations using electrode locations. Across four neural benchmarks using scalp or intracranial EEG, the pretrained RQF system performs close to the state of the art while using a small fraction of the parameters of the competing models. For example, a 110k-parameter RQF system achieves 0.9247 +/- 0.0022 test AUROC on 100-s TUAB segments, above SAMBA (0.9054) at the same context with 9 times as many parameters, and 0.9040 +/- 0.0019 on 10-s segments, comparable to EEG foundation models with 3.2M-369M parameters.",
+    "authors": [
+     "Mirko Morello",
+     "Shivang Rawat",
+     "David J. Heeger"
+    ],
+    "published": "2026-11-19T22:17:55Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "eess.SP",
+     "q-bio.NC"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.26847",
+    "url": "https://arxiv.org/abs/2611.26847",
+    "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
+    "abstract": "Traffic forecasting models are typically evaluated under ideal conditions with complete data. This evaluation does not reflect the frequent sensor failures and communication outages common in real-world deployments. This paper presents a comprehensive analysis of multivariate traffic prediction models to evaluate their performance under varying levels of sensor data loss during inference. We benchmark several architectural paradigms, including graph neural networks, attention-based Transformers, and selective state-space models, across sparsity levels ranging from zero to complete sensor loss, using two widely used multi-channel traffic benchmarks. To ensure consistent comparison across traffic variables, we use normalized metrics and define a usability threshold to identify when predictions become unreliable. Our results show a clear trade-off between baseline accuracy and robustness: models with the highest accuracy under full-data conditions often degrade most sharply as data becomes sparse, while less accurate models maintain more stable performance. These findings show that model selection should be based on the expected reliability of the sensor network rather than peak accuracy alone. This work provides a practical framework for assessing traffic forecasting models and highlights the importance of robustness in real-world applications.",
+    "authors": [
+     "Mohamed Hamad",
+     "Bilal Mutahir",
+     "Mohamed Mabrok",
+     "Nizar Zorba",
+     "Hamid Saeedi",
+     "Halim Yanikomeroglu"
+    ],
+    "published": "2026-11-19T22:05:31Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.27162",
+    "url": "https://arxiv.org/abs/2611.27162",
+    "title": "Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation",
+    "abstract": "Predicting holo-like protein conformations from apo structures is essential in structure-based drug design. Most existing apo-to-holo models operate in Cartesian space and achieve strong global accuracy. However, high global accuracy does not ensure physically valid local backbone geometry. Internal-coordinate models offer local control and validity, but regressive generation can amplify angular errors, known as the lever-arm effect. We introduce CrypticFlow, a hierarchical flow-matching model that combines these two complementary representations. An ESM-3-conditioned E(3)-equivariant graph network first generates sparse C$α$ anchors in Cartesian space. A conditional midpoint Transformer then recursively fills the gaps in local internal coordinates. During recursive generation, the decoder constrains the distance between each midpoint and any sequence-adjacent parent anchor to the corresponding apo C$α$-C$α$ distance. On the D3PM test split, CrypticFlow achieves the lowest median and mean C$α$ RMSD at published baseline capacities. Across five independent training models, the median and mean direct RMSD are 1.333 $\\pm$ 0.056 angstroms and 2.766 $\\pm$ 0.041 angstroms, respectively. The quality of local geometry also improves substantially. Our model achieves 99.58 $\\pm$ 0.02% adjacent-distance fidelity and 95.87 $\\pm$ 0.25% pseudo-angle fidelity, measured within 0.2 angstroms and 20° of the holo reference. Then, we reconstruct the predicted C$α$-only traces into all-atom structures using the cg2all coarse-to-all-atom backmapping method and evaluate their physical and geometric quality with MolProbity. Our model achieves a MolProbity score of 3.034 $\\pm$ 0.054, outperforming the evaluated baselines. These results show that a hierarchical flow-matching model with hybrid coordinates can recover global accuracy while retaining local fidelity.",
+    "authors": [
+     "Minjong Kim",
+     "Jaemin Sim",
+     "Dongwoo Kim",
+     "Myunghyun Jang",
+     "Eun-Sol Kim",
+     "Juyong Lee"
+    ],
+    "published": "2026-11-20T05:47:46Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "q-bio.BM"
+    ],
+    "topics": [
+     "ml-methods",
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.27653",
+    "url": "https://arxiv.org/abs/2611.27653",
+    "title": "Late-Time Dynamics of Flow Matching: Distance Geometry and Learning",
+    "abstract": "Generative models transform simple random inputs into samples that resemble observed data. For a finite training set, a central question is how its geometry shapes the terminal dynamics and the probabilities assigned to individual samples. We address this question for flow matching with linear interpolation between independent Gaussian and empirical samples. The squared distance to the training set generates explicit paths contracting exponentially toward the nearest sample. We prove that exact trajectories restarted at prescribed late-time states approximate these paths uniformly over all elapsed times and compact sets of starting states away from Voronoi interfaces, with an error exponentially small in the inverse squared restart noise scale. The initial mass near interfaces controls the quadratic Wasserstein error between the exact and reference laws. For Gaussian and fixed Gaussian-tube restart laws, this gives a square-root rate in the restart noise scale, uniform over time, which a two-site example shows to be sharp in general. At ties, the Clarke subdifferential characterizes the graphical limit of the rescaled velocity field. This geometry motivates two learning methods: fitting the distance potential with value and gradient supervision, and fitting velocities along explicit contraction paths. A transport estimate separates initialization mismatch, velocity error, incomplete contraction, and endpoint allocation. MNIST experiments illustrate the distinct roles of support proximity, nearest-site retention, and feature fidelity. These results connect flow matching and score-based diffusion through a common limiting geometry and show how asymptotic analysis can inform the design and evaluation of generative models.",
+    "authors": [
+     "Umberto Biccari",
+     "Junqing Huang",
+     "Kang Liu",
+     "Enrique Zuazua"
+    ],
+    "published": "2026-11-20T14:18:27Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "math.OC"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.27698",
+    "url": "https://arxiv.org/abs/2611.27698",
+    "title": "Spatiotemporal Graph Neural Networks for Fault Detection and Structural Learning in Chemical Processes: Use Case on the Tennessee Eastman Process",
+    "abstract": "Classical Fault Detection and Diagnosis (FDD) methods, including many data-driven approaches, assume a static normal operating space and interpret deviations from a fixed reference as fault indicators. When Operating Conditions (OCs) vary over time, this assumption breaks down: legitimate transitions trigger false alarms while moderate faults go undetected. We propose a spatiotemporal Graph Neural Network (GNN) framework that decomposes the normal operating space into OC-specific subspaces linked by transition functions, with a dual learning objective combining reconstruction loss and a Deep SVDD one-class term. It learns adjacency matrices through Graph Attention Networks (GATs) and integrates spatial modelling with temporal encoding to represent process dynamics under evolving OCs. This paper evaluates the framework's foundational components (fault detection, GATv2 spatial graph learning and temporal encoding) on the Tennessee Eastman Process (TEP) benchmark, training only on fault-free data. The architecture achieves competitive detection from reconstruction error alone, with similarity-based feature selection improving both accuracy and graph structure diversity. We then evaluate the physical interpretability of the learned attention matrices against 22 ground-truth sensor pairs derived from the TEP control structure and process topology. GATv2 attention fails to recover all known physical pairs across multiple hyperparameter configurations, suggesting a structural limitation of reconstruction-driven attention rather than a tuning issue. This challenges a common assumption in GNN-based FDD: that learned attention weights provide a basis for fault diagnosis and root-cause analysis. The architecture detects faults effectively, but the learned graph does not encode the physical topology needed for interpretable diagnosis, motivating physics-informed graph construction.",
+    "authors": [
+     "Rayane Ammar Khodja",
+     "Alexandre Voisin",
+     "Victor Costa",
+     "Fanny Casteran",
+     "Benoit Celse",
+     "Benoît Iung"
+    ],
+    "published": "2026-11-20T15:04:35Z",
+    "primary": "cs.AI",
+    "cats": [
+     "cs.AI",
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.26711",
+    "url": "https://arxiv.org/abs/2611.26711",
+    "title": "Parasite Features: Causal Abstraction Through Spurious Pathways",
+    "abstract": "Causal Abstraction defines a notion of \\emph{equivalence} between a neural network and an algorithm, thus serving as a powerful framework for mechanistic interpretability. In this paper, however, we show the existence of a class of \\emph{spurious features} which straightforwardly pass such equivalence tests. Suppose there are two directions in a model's representation space where: (i) one discriminates the input based on some feature, and (ii) the other steers the model towards a certain output. Interpretability methods based on Causal Abstraction (e.g., Distributed Alignment Search) can \\emph{spuriously} simulate these directions' combined behavior by leveraging pathways passing through them, giving the impression that the model implements this feature. In such cases, we say the method discovered a \\defn{parasite feature}. Experimentally, we show that Distributed Alignment Search finds parasite features using linear alignment maps in two tasks: syntactic agreement and two-digit addition. Our paper highlights an important consideration for Causal Abstraction and contributes to the ongoing debate about best practices for mechanistic interpretability.",
+    "authors": [
+     "Denis Sutter",
+     "Qing Yao",
+     "Sasha Boguraev",
+     "Julian Minder",
+     "Antonio Di Maio",
+     "Thomas Hofmann",
+     "Kyle Mahowald",
+     "Tiago Pimentel"
+    ],
+    "published": "2026-11-19T19:12:58Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.26794",
+    "url": "https://arxiv.org/abs/2611.26794",
+    "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+    "abstract": "Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large language models (MLLMs) could automate these readouts with an explanation, but two gaps remain. Pathology MLLMs read H&E alone, while these readouts need the cell phenotypes that mIF measures. And their reasoning has no step-level truth to be checked against, so R1-style reinforcement learning rewards only the final answer and leaves the reasoning unverified. Same-section H&E and mIF provide what both gaps lack: mIF measures every cell without manual annotation, which gives cell-level ground truth for each step that clinical guidelines prescribe, from delineating a tissue compartment to counting and normalizing the marker-positive cells within it. We therefore present HERMES (H&E-mIF Reasoning with Multimodal Evidence Supervision), an R1-style MLLM that reasons jointly over paired H&E and mIF in guideline steps and is trained with a process reward that checks every stated quantity against this truth. Across four field-level TIME tasks in colorectal cancer, HERMES (4B) reaches an average accuracy of 84.5%, compared with 74.7% for the strongest of twelve proprietary, general, medical and pathology MLLMs, and a higher share of its intermediate quantities is correct than for the strongest open-weight baseline. Without the process reward, reinforcement learning barely improves on supervised fine-tuning (80.0% vs. 78.8%) and fewer stated quantities are correct; editing a decisive stated quantity changes the answer as implied in all 885 test questions. Without retraining, it keeps the highest average accuracy on an external cohort imaged with CODEX (76.4% vs. 67.3%) and on head and neck cancer, a cancer type absent from training (76.7% vs. 72.5%).",
+    "authors": [
+     "Yixuan Duan",
+     "Kexin Geng",
+     "Hanwen Xu",
+     "Wei Qiu"
+    ],
+    "published": "2026-11-19T20:36:13Z",
+    "primary": "cs.AI",
+    "cats": [
+     "cs.AI",
+     "q-bio.QM"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.26797",
+    "url": "https://arxiv.org/abs/2611.26797",
+    "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+    "abstract": "Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patterns are stored as energy minima and retrieved through attractor dynamics. Beyond their capacity, AMs form new minima known as spurious states, long regarded as a failure of memory. We argue that this failure is where creativity begins, and that memorization and generalization can coexist as outcomes of one retrieval process. First, we show that diffusion models behave as AMs. With little data, a diffusion model forms a distinct basin of attraction around each training sample. As the data grows, these basins shrink, and spurious states emerge as attractors that blend stored samples yet match none of them. They are the first signs of generative capability. We characterize this transition by measuring the volume, energy, and curvature of these basins across datasets and architectures, including Stable Diffusion. We then turn to language and move beyond the energy-based view of AM. We show that uniform-state discrete diffusion models are AMs capable of retrieving unseen data, with basins of attraction that arise from conditional likelihood maximization alone. As the training set grows, basins around training examples contract while basins around unseen examples expand, until corrupted test sentences are recovered as reliably as training ones. Conditional entropy exposes this coexistence within a single sequence and cheaply diagnoses where a model lies along the transition. Together, these results suggest that AM is a general principle defined by basins of attraction, and that memorization and generalization can coexist within one model. AM thus offers a framework for asking when a generative model recalls and when it creates.",
+    "authors": [
+     "Bao Pham"
+    ],
+    "published": "2026-11-19T20:40:38Z",
+    "primary": "cs.AI",
+    "cats": [
+     "cs.AI",
+     "cs.CV",
+     "cs.LG",
+     "stat.ML"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.26805",
+    "url": "https://arxiv.org/abs/2611.26805",
+    "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
+    "abstract": "Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters. In cross-device settings, where participants hold heterogeneous data and join or leave asynchronously, averaging is poorly suited: locally trained adapters are not identifiable up to permutation, and averages of adapters trained on dissimilar data can be uninformative or unstable. We propose a simple idea called federated library-based adaptation (LEAN), which replaces averaging altogether. The server maintains a library of rank-1 basis pairs; participants check out random subsets, fine-tune them locally as a LoRA adapter, and check them back in, so that each pair is shuffled across sites and trained on many participants' data. Because no aggregation step is required, LEAN operates fully asynchronously and communicates only low-rank parameters. We prove that, in a synchronous setting, LEAN converges to a neighborhood of a stationary point, with the shuffle canceling data heterogeneity at first order. Across image and text fine-tuning benchmarks, LEAN outperforms averaging-based baselines in most settings with substantially less communication, and remains effective under heavy data heterogeneity, where averaging-based methods fail to reach nontrivial accuracy, and under heavy asynchrony, where they degrade substantially.",
+    "authors": [
+     "Erdong Hu",
+     "Zhimin Ding",
+     "Yuxin Tang",
+     "Chris Jermaine"
+    ],
+    "published": "2026-11-19T20:48:34Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.26807",
+    "url": "https://arxiv.org/abs/2611.26807",
+    "title": "NitroGen: Observations on the Action Dynamics, Visual Instruction Following, and Spatial Exploration",
+    "abstract": "NitroGen is an open vision-action foundation model for game control. It is trained by behavior cloning on online gameplay videos. In this paper, we study the frozen controller in Hollow Knight and Trackmania as examples along three dimensions: action adaptation, visual instruction following, and spatial exploration. Our results indicate that NitroGen can adapt its actions to local context, but it lacks the planning, recovery, and exploration needed for longer-horizon game control.",
+    "authors": [
+     "Shengyuan Lin",
+     "Zhiling Li",
+     "Haoyu Nie",
+     "Ozan K. Tonguz"
+    ],
+    "published": "2026-11-19T20:53:12Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.26818",
+    "url": "https://arxiv.org/abs/2611.26818",
+    "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
+    "abstract": "The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial attacks. While extensive research has focused on adversarial example generation in image and text domains, the study of such examples in tabular data remains comparatively limited, despite its widespread use in real-world systems. This work introduces AURORA, a modular, open-source tool for evaluating the robustness of ML models on tabular data classification. It integrates multiple adversarial perturbation methods and evaluation metrics within a unified framework to systematically assess model behavior under adversarial conditions. Central to AURORA is its evaluation report, which focuses on robustness analysis by quantifying performance degradation, comparing the impact of different perturbation strategies, and identifying model vulnerabilities across features and input regions. The report is complemented by visual artifacts that facilitate the interpretability of robustness patterns. Additionally, AURORA incorporates a distance adjustment mechanism that penalizes implausible adversarial samples based on feature-level constraints, ensuring that the robustness assessment remains grounded in realistic perturbations and is therefore more reliable.",
+    "authors": [
+     "Miguel Silva",
+     "Eva Maia",
+     "João Vitorino",
+     "Isabel Praça"
+    ],
+    "published": "2026-11-19T21:11:52Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.26929",
+    "url": "https://arxiv.org/abs/2611.26929",
+    "title": "Large Reported CHB-MIT Adaptation Gains Disappear with Pretrained Encoders and Matched Probes",
+    "abstract": "Dani and Liebe (2026) (DL) report that adapting the final encoder block of BIOT and CBraMod with self-supervised learning (SSL) improves CHB-MIT seizure-detection ROC-AUC by 36.2 and 29.5 points over linear probing. We investigate these results with their released code and an independent pipeline. The release loads pretrained weights for adaptation only when an otherwise unset configuration key is supplied, and its CBraMod probe reads the reconstruction head with dropout active. With pretrained initialisation and a probe on the encoder output in evaluation mode, the fixed-recipe adaptation gain on DL's split is -0.6 points for BIOT (95% interval [-3.8, +2.6]) and +0.01 for CBraMod ([-0.02, +0.04]) across five seeds. Across DL's split and five subject rotations on CHB-MIT and Siena Scalp EEG, with equally tuned linear probes (30 configurations, up to 500 epochs, validation-based early stopping), mean adaptation effects range from -1.1 to +5.7 ROC-AUC points over 18 comparisons (related settings and feature variants). Twelve of 18 support equivalence within +/-3 points under dependence-adjusted inference (8 of 12 rotation and 4 of 6 fixed-split comparisons); six are unresolved. After correcting rotation intervals for dependence, no positive effect has a 95% interval excluding zero. The +/-3 margin is an analysis threshold, not a clinically validated one, and smaller margins support fewer equivalences. Two fixed-probe gains near +21 points shrink under the same tuning, with smaller benefits unresolved. We also audit a CHB-MIT protocol shared by at least 14 papers. No tested configuration reproduces DL Table 1 as a whole. These findings concern the tested configurations; the encoder-level probe and subsequent checks were chosen post hoc.",
+    "authors": [
+     "Joseph Sankoorikal Johny",
+     "Antony J. Sankoorikal"
+    ],
+    "published": "2026-11-20T00:25:41Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "stat.ML"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.27015",
+    "url": "https://arxiv.org/abs/2611.27015",
+    "title": "Ruby: State-of-the-Art Potency Prediction across Discovery Regimes Using Learned Structural Representations",
+    "abstract": "Small-molecule drug discovery proceeds through repeated design-make-test-analyze cycles. The goal is often to maximize potency while keeping other properties within the ranges required for a viable therapeutic candidate. Compound prioritization places different demands on computational methods as drug discovery progresses from hit identification through hit-to-lead and lead optimization, with changing computational budgets and increasing amounts of on-target experimental data. We introduce Ruby, a Robust Universal Binding affinitY predictor that uses intermediate representations from the structural foundation model Pearl without requiring an explicit binding pose for every compound. Ruby is trained on proprietary data plus GenesisPotency-2026, an audited public-source potency training dataset released for academic and commercial use under a CC BY-SA 4.0 license with row-level provenance and audit annotations. Ruby achieves the highest aggregate early enrichment across seven public hit-identification targets among evaluated methods, with adjustable inference effort trading off enrichment and computational cost over more than two orders of magnitude. Ruby achieves the highest average correlations across four public benchmarks: OpenFE, CASP16, FEP+ 4, and OpenBind. Ruby significantly outperforms other methods in zero-shot prediction across eight biochemical and cellular assays from five ongoing Genesis-Incyte programs, widening its performance advantage relative to the public benchmarks. Ruby continues to improve more than other methods when all are given the opportunity to recalibrate using earlier assay measurements. Together, these contributions provide an annotated training resource for the field and a state-of-the-art potency predictor for broad screening, prioritization within related chemical series, and assay-specific prediction as experimental measurements accumulate.",
+    "authors": [
+     "Michael Atkin",
+     "Dominique Beaini",
+     "Jules Berman",
+     "Rebecca Boiarsky",
+     "Jamin Chen",
+     "Alejandro Dobles",
+     "Sergey Edunov",
+     "Evan Feinberg",
+     "Nate Gruver",
+     "Will Harvey",
+     "Deidre Johns",
+     "Nina Jovic",
+     "Steven Kearnes",
+     "Allison Keys",
+     "Rohit Kundu",
+     "Ken Leidal",
+     "Gerald Lelais",
+     "Michael V. Levine",
+     "Indrawan McAlpine",
+     "Gabriel Monteiro da Silva",
+     "Igor Morozov",
+     "Pranav Murugan",
+     "Adi Nagle",
+     "Frank Pickard",
+     "Wesley Qian",
+     "Gianluca Scarpellini",
+     "Ansh Sharma",
+     "Richard Strong Bowen",
+     "Wojtek Swiderski",
+     "Laura Tapias",
+     "Carl Tilbury",
+     "Cyr Vetcher",
+     "Han Wang",
+     "William Wang",
+     "David Charles Williams",
+     "Drausin Wulsin",
+     "Han Yoon"
+    ],
+    "published": "2026-11-20T02:45:30Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.27288",
+    "url": "https://arxiv.org/abs/2611.27288",
+    "title": "Preserving Pretrained CFG Structure in RL for Diffusion Models with Conditional Contrast Regularization",
+    "abstract": "Reinforcement Learning (RL) has become an important component in the post-training of diffusion models. In practice, however, standard RL often improves the target reward without reliably preserving holistic generation quality, leading to unstable reward-quality trade-offs that we view as a form of reward hacking. Since Classifier-Free Guidance (CFG) is known to improve visual clarity, prompt alignment, and perceptual quality in generation, we investigate whether its underlying structure can serve as a useful prior during RL. We present a unified geometric view that interprets both CFG and RL as correction vectors in a common prediction space, and identify the projection of the RL-induced correction onto the pretrained CFG correction as a useful diagnostic of quality-related structural preservation. Geometric analysis and rotation intervention further show that the pretrained CFG direction carries information useful for generation quality that reward-driven RL updates do not necessarily preserve. Based on this insight, we propose Conditional Contrast Regularization (CCR), which uses the frozen reference model's conditional contrast as a local structural prior during RL. Experiments across multiple reward settings and backbones show that CCR more consistently preserves generation quality while maintaining competitive reward, yielding a better reward-quality trade-off than standard RL and generic regularization methods.",
+    "authors": [
+     "Yunfei Zheng",
+     "Xiaolong Wang",
+     "Dandan Zheng",
+     "Xianjun Deng",
+     "Shenghao Liu",
+     "Wei Xiang",
+     "Yuqian Li",
+     "Laurence Tianruo Yang"
+    ],
+    "published": "2026-11-20T08:27:32Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI",
+     "cs.CV"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.27435",
+    "url": "https://arxiv.org/abs/2611.27435",
+    "title": "Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents",
+    "abstract": "Model predictive control (MPC) of urban traffic signals relies on a model of how queues respond to signal decisions, which is hard to specify and calibrate in heterogeneous networks, particularly when incidents change capacities and turning shares. Measurements add a second limitation: the controlled lanes at the stop line are often short, so queues extending upstream of them fall outside lane-level measurements. We propose GNN-MPC, a receding-horizon controller that plans with action-conditioned network dynamics learned by graph neural networks. Phase sequences are coordinated across intersections by approximate best responses, with an acceptance test that keeps the predicted cost no higher than that of the initial plan. In microscopic simulation under non-recurrent incidents, GNN-MPC reduces travel time and increases completed trips relative to all tested controllers, on a homogeneous grid and a heterogeneous 21-intersection network. Controlled comparisons on the heterogeneous network distinguish the roles of observation and prediction. With nearly as many vehicles entering the network, GNN-MPC reduces travel time by 13% relative to MaxPressure with the same upstream measurement, and GNN-MPC without the upstream representation does not reproduce its performance. Under the same traffic measurements, planner and objective, replacing the learned dynamics with calibrated store-and-forward predictors increases travel time by 31-34%. Observing hidden demand and predicting its response to control are thus complementary requirements of network-level predictive control.",
+    "authors": [
+     "Dang Viet Anh Nguyen",
+     "Carlos Lima Azevedo",
+     "Tomer Toledo",
+     "Filipe Rodrigues"
+    ],
+    "published": "2026-11-20T10:32:08Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "eess.SY"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   }
+  ],
+  "ml-genetics": [
+   {
+    "id": "2611.27162",
+    "url": "https://arxiv.org/abs/2611.27162",
+    "title": "Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation",
+    "abstract": "Predicting holo-like protein conformations from apo structures is essential in structure-based drug design. Most existing apo-to-holo models operate in Cartesian space and achieve strong global accuracy. However, high global accuracy does not ensure physically valid local backbone geometry. Internal-coordinate models offer local control and validity, but regressive generation can amplify angular errors, known as the lever-arm effect. We introduce CrypticFlow, a hierarchical flow-matching model that combines these two complementary representations. An ESM-3-conditioned E(3)-equivariant graph network first generates sparse C$α$ anchors in Cartesian space. A conditional midpoint Transformer then recursively fills the gaps in local internal coordinates. During recursive generation, the decoder constrains the distance between each midpoint and any sequence-adjacent parent anchor to the corresponding apo C$α$-C$α$ distance. On the D3PM test split, CrypticFlow achieves the lowest median and mean C$α$ RMSD at published baseline capacities. Across five independent training models, the median and mean direct RMSD are 1.333 $\\pm$ 0.056 angstroms and 2.766 $\\pm$ 0.041 angstroms, respectively. The quality of local geometry also improves substantially. Our model achieves 99.58 $\\pm$ 0.02% adjacent-distance fidelity and 95.87 $\\pm$ 0.25% pseudo-angle fidelity, measured within 0.2 angstroms and 20° of the holo reference. Then, we reconstruct the predicted C$α$-only traces into all-atom structures using the cg2all coarse-to-all-atom backmapping method and evaluate their physical and geometric quality with MolProbity. Our model achieves a MolProbity score of 3.034 $\\pm$ 0.054, outperforming the evaluated baselines. These results show that a hierarchical flow-matching model with hybrid coordinates can recover global accuracy while retaining local fidelity.",
+    "authors": [
+     "Minjong Kim",
+     "Jaemin Sim",
+     "Dongwoo Kim",
+     "Myunghyun Jang",
+     "Eun-Sol Kim",
+     "Juyong Lee"
+    ],
+    "published": "2026-11-20T05:47:46Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "q-bio.BM"
+    ],
+    "topics": [
+     "ml-methods",
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.27831",
+    "url": "https://arxiv.org/abs/2611.27831",
+    "title": "DistDNA: Language Model Fingerprinting under Stochastic Decoding",
+    "abstract": "Behavioral fingerprints identify a large language model (LLM) from its responses to a shared set of prompts, enabling applications such as verifying whether a deployed model corresponds to the checkpoint it claims to be. Deployed models, however, are commonly served with stochastic decoding, under which the same model may produce different responses to an identical prompt, depending on an unknown temperature and top-$p$ setting. Existing representations such as LLM DNA provide limited treatment of this variation. A natural remedy is to characterize models by their response distributions, which, however, raises two challenges. First, each distribution must be estimated from only a small number of sampled responses. Second, a change in decoding setting can alter responses to the same extent as a change of checkpoint. Consequently, fingerprint distances alone provide an incomplete basis for model identity, and identification typically relies on a classifier trained jointly on fingerprints from many checkpoints. We propose DistDNA, which represents a model by its prompt-conditional response distributions and compares models by promptwise maximum mean discrepancy (MMD). The model under examination is assigned to the known checkpoint whose reference fingerprints, collected at several decoding settings, lie nearest to its own, without training a classifier. We show that finite sampling adds variance-dependent terms to the expected squared fingerprint distance, with these terms decreasing as $O(1/R)$ for equal response counts, where $R$ is the number of responses per prompt. Experiments across 115 model checkpoint entries demonstrate that DistDNA improves identification accuracy over the strongest baseline, LLM DNA, by 10.36%.",
+    "authors": [
+     "Lifan Hu",
+     "Qian Yu",
+     "Zhaomin Wu",
+     "Bingsheng He"
+    ],
+    "published": "2026-11-20T16:52:51Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.CL"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   }
+  ]
+ }
+}
