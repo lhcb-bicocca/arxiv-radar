@@ -1,0 +1,686 @@
+{
+ "date": "2026-11-24",
+ "generated": "2026-11-24T17:44+00:00",
+ "window": [
+  "2026-11-22T17:44+00:00",
+  "2026-11-24T17:44+00:00"
+ ],
+ "scanned": 266,
+ "topics": {
+  "charm": [
+   {
+    "id": "2611.31142",
+    "url": "https://arxiv.org/abs/2611.31142",
+    "title": "A proposal for an LHC search for baryon number violation in complementarity with trilepton nucleon decay searches",
+    "abstract": "We investigate the compatibility of existing limits on trilepton nucleon decay by the Super-Kamiokande (Super-K) experiment with Baryon Number Violation (BNV) at the TeV scale and motivate a dedicated search using existing data at the LHC. Working within an effective field theory framework, we derive model-independent constraints on higher-dimensional operators associated with $B - L/3$ conserving texture of BNV. We demonstrate that existing Super-K limits on loop-level trilepton nucleon decay provide significantly stronger constraints compared to tree-level charm-baryon decays induced by these operators. These constraints translate into bounds of $O(1-30)$ TeV on the BNV scale, leaving open the possibility of an LHC search for $B - L/3$ type BNV. Motivated by this complementarity, we investigate the collider phenomenology of a representative UV completion featuring an $s$-channel diquark resonance that decays into a leptoquark--dilepton pair, producing a distinctive final state containing an anti-top quark, two charged anti-leptons, and missing transverse energy. Our results indicate that, although same-sign dilepton searches by ATLAS and CMS already place indirect constraints on this model, a dedicated analysis based on the selection cuts we develop significantly extends the reach for our chosen benchmarks. In particular, using only Run 2 data, we demonstrate complementary reach to limits on trilepton nucleon decay searches set by the Super-K experiment and to the projected reach of Hyper-Kamiokande. The selection cuts are applicable beyond our representative model.",
+    "authors": [
+     "Amit Bhoonah",
+     "Francis M. Burk",
+     "Da Liu",
+     "Tong Ou",
+     "Deepak Sathyan"
+    ],
+    "published": "2026-11-23T18:12:14Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-ex"
+    ],
+    "topics": [
+     "charm"
+    ]
+   }
+  ],
+  "cp": [],
+  "b": [],
+  "spectroscopy": [
+   {
+    "id": "2611.29900",
+    "url": "https://arxiv.org/abs/2611.29900",
+    "title": "Hadron spectroscopy of QC2D at finite density",
+    "abstract": "We investigate the chemical-potential dependence of hadron masses in two-color QCD (QC$_2$D) at low temperature using lattice Monte Carlo simulations. We calculate all possible meson and diquark correlation functions, including disconnected diagrams, on a $32^4$ lattice at $T\\approx40\\,\\mathrm{MeV}$. In the hadronic phase, we obtain a meson mass hierarchy similar to that of three-color QCD. After the superfluid transition, the ordering changes: the $σ$ and $a_1$ channels become lighter, while the pion mass increases with density. We also examine the diquark source dependence of the Nambu--Goldstone mode of $U(1)_B$ symmetry breaking and find an almost vanishing mass in the superfluid phase after extrapolation to zero source. Finally, we compare correlation functions for chiral partners and discuss indications of partial chiral-symmetry restoration. This contribution is based on our recent study of hadron spectra in dense QC$_2$D~\\cite{Iida:2026dmw}.",
+    "authors": [
+     "Kei Iida",
+     "Etsuko Itou",
+     "Kotaro Murakami",
+     "and Daiki Suenaga"
+    ],
+    "published": "2026-11-23T01:55:21Z",
+    "primary": "hep-lat",
+    "cats": [
+     "hep-lat",
+     "hep-ph",
+     "nucl-th"
+    ],
+    "topics": [
+     "spectroscopy"
+    ]
+   },
+   {
+    "id": "2611.30439",
+    "url": "https://arxiv.org/abs/2611.30439",
+    "title": "Bypassing the Nanoampere Limit: A Thick-Target Methodology for Ultra-Low-Energy Resonances in the $^{11}$B(p,$α$)2$α$ Reaction",
+    "abstract": "Precise measurements of the low-energy cross section for the $^{11}$B(p,$α$)2$α$ reaction is critical for nuclear astrophysics and fusion energy research, yet such measurements are experimentally demanding due to the reaction's extremely small cross section. Conventional thin-target experiments are fundamentally limited to nanoampere beam currents, which restrict count rates to impractical levels at ultra-low proton energies. To overcome this limitation, we report a correction-free thick-target methodology capable of operating at beam currents of 20-60 microamperes, corresponding to a gain of over three orders of magnitude. Monte Carlo simulations of the full reaction kinematics are employed to determine the absolute reaction yield, eliminating the requirement for empirical normalization factors. At the well-known 148~keV (c.m.) resonance peak, our extracted resonance energy ($E_{\\mathrm{r}} = 148.0$~keV) and level width ($Γ_{\\mathrm{cm}} = 5.3$~keV) are demonstrated in good agreement with published data. A scheme via comparing the measured reaction probability with a theoretical extrapolation result is furtherly presented to probe low-energy resonances below 100~keV region. Preliminary measurements at proton energies of 75~keV and 100~keV reveal no evidence for additional low-energy resonances. This work provides a robust new methodology to measure cross section and resonance parameters for the p$^{11}$B reaction and offers a highly efficient tool for systematic resonance searches in the ultra-low-energy regime.",
+    "authors": [
+     "Xu-Yang Luo",
+     "Wen-Qing Wei",
+     "Shi-zheng Zhang",
+     "Wen Jiang",
+     "Bu-bo Ma",
+     "Zi-qian Zhao",
+     "Zhao Wang",
+     "Guo-Dong Wang",
+     "Lu-Lin Shi",
+     "Rui Cheng",
+     "Yan-Shi Zhang",
+     "Di Luo",
+     "Xiao Xiao",
+     "Guan-Chao Zhao",
+     "Bing Liu",
+     "Dieter H. H. Hoffmann",
+     "Jie-Ru Ren",
+     "Yong-Tao Zhao"
+    ],
+    "published": "2026-11-23T10:31:04Z",
+    "primary": "nucl-ex",
+    "cats": [
+     "nucl-ex",
+     "physics.plasm-ph"
+    ],
+    "topics": [
+     "spectroscopy"
+    ]
+   },
+   {
+    "id": "2611.30818",
+    "url": "https://arxiv.org/abs/2611.30818",
+    "title": "Search for Axion-like Particles using Blazar Observations with the HAWC Observatory",
+    "abstract": "Axion-like particles (ALPs) can mix with photons in astrophysical magnetic fields, modifying the propagation of very-high-energy gamma rays from distant blazars and producing an energy-dependent enhancement of the observed flux relative to the standard expectation from absorption on the extragalactic background light (EBL). We search for this signature through a joint likelihood analysis of seven TeV BL Lac objects at redshifts $z = 0.14-0.60$, combining approximately 3,000 days of HAWC observations with published High Energy Spectroscopic System (H.E.S.S.), Major Atmospheric Gamma Imaging Cherenkov Telescopes (MAGIC), and Very Energetic Radiation Imaging Telescope Array System(VERITAS) spectra. We find no statistically significant ALP signal and derive exclusion limits using the $\\mathrm{CL}_s$ method. We exclude photon-ALP couplings at the 95% $\\mathrm{CL}_s$ level down to $5.5 \\times 10^{-12}~\\mathrm{GeV}^{-1}$ for $m_a \\lesssim 4$ neV and $4.6 \\times 10^{-12}~\\mathrm{GeV}^{-1}$ near $m_a \\approx 6-9$ neV. The systematic uncertainty on the excluded parameter-space area is $-36.5\\%$ to $+32.6\\%$, dominated by the choice of EBL model. Because the survival probability oscillates with the coupling, the excluded region is not simply connected, and we quote at each mass the lowest excluded coupling rather than an upper bound. The combined limit is set almost entirely by the highest-redshift detected source, PG 1553+113.",
+    "authors": [
+     " HAWC Collaboration",
+     "R. Alfaro",
+     "C. Alvarez",
+     "A. Andrés",
+     "E. Anita-Rangel",
+     "M. Araya",
+     "J. C. Arteaga-Velázquez",
+     "D. Avila Rojas",
+     "H. A. Ayala Solares",
+     "R. Babu",
+     "A. Bernal",
+     "A. Carramiñana",
+     "F. Carreón",
+     "S. Casanova",
+     "A. L. Colmenero-Cesar",
+     "J. Cotzomi",
+     "N. Di Lalla",
+     "R. Diaz Hernandez",
+     "M. A. DuVernois",
+     "T. Ergin",
+     "C. Espinoza",
+     "N. Fraija",
+     "S. Fraija",
+     "J. A. García-González",
+     "F. Garfias",
+     "N. Ghosh",
+     "S. Giri",
+     "M. M. González",
+     "J. A. González",
+     "J. A. Goodman",
+     "J. Gyeong",
+     "J. P. Harding",
+     "I. Herzog",
+     "J. Hinton",
+     "D. Huang",
+     "F. Hueyotl-Zahuantitla",
+     "S. Kaufmann",
+     "K. Leavitt",
+     "J. S. Lee",
+     "H. León Vargas",
+     "J. T. Linnemann",
+     "A. L. Longinotti",
+     "G. Luis-Raya",
+     "O. Martinez",
+     "J. Martínez-Castro",
+     "H. Martínez-Huerta",
+     "J. A. Matthews",
+     "P. Miranda-Romagnoli",
+     "P. E. Mirón-Enriquez",
+     "J. A. Morales-Soto",
+     "E. Moreno",
+     "M. Mostafá",
+     "M. Najafi",
+     "L. Nellen",
+     "N. Omodei",
+     "E. Ponce",
+     "Y. Pérez Araujo",
+     "E. G. Pérez-Pérez",
+     "C. D. Rho",
+     "D. Rosa-González",
+     "M. Roth",
+     "A. Sandoval",
+     "J. Serna-Franco",
+     "M. Shin",
+     "Y. Son",
+     "R. W. Springer",
+     "O. Tibolla",
+     "K. Tollefson",
+     "I. Torres",
+     "F. Ureña-Mena",
+     "E. Varela",
+     "X. Wang",
+     "Z. Wang",
+     "I. J. Watson",
+     "H. Wu",
+     "S. Yu",
+     "S. Yun-Cárcamo",
+     "X. Zhang",
+     "H. Zhou",
+     "C. de León"
+    ],
+    "published": "2026-11-23T15:09:44Z",
+    "primary": "astro-ph.HE",
+    "cats": [
+     "astro-ph.HE",
+     "hep-ex"
+    ],
+    "topics": [
+     "spectroscopy"
+    ]
+   }
+  ],
+  "ml-hep": [
+   {
+    "id": "2611.30394",
+    "url": "https://arxiv.org/abs/2611.30394",
+    "title": "FGPA-based advanced muon trigger algorithms for long-lived particle detection at the High-Luminosity LHC",
+    "abstract": "The CMS Level-1 trigger must reconstruct muons in real time under stringent latency and hardware resource constraints. Conventional algorithms lose efficiency for high-energy muons undergoing radiative energy losses and can be suboptimal for displaced trajectories, limiting sensitivity to exotic signatures such as long-lived particles (LLPs). The Phase-2 upgrade introduces advanced FPGAs that enable more sophisticated reconstruction algorithms. This work presents two complementary developments addressing these challenges. In the barrel region, a dedicated algorithm detects showers from Drift Tube hit patterns at the first processing stage. At the subsequent filtering stage, shower primitives are correlated with conventional trigger primitives, currently targeting radiatively showering high-momentum muons, with LLP signatures as a broader objective. Simulation studies yield approximately $80\\%$ shower-classification accuracy and an estimated matching efficiency above $80\\%$ for radiating muons. Firmware prototypes demonstrate a shower-detection latency of approximately $20\\,\\mathrm{ns}$ and sub-bunch-crossing latency for preliminary matching logic. In parallel, a hardware-oriented optimization methodology is investigated for future graph neural network based displaced-muon reconstruction in the barrel--endcap overlap region. Using a GraphSAGE proxy on a benchmark dataset, a workflow combining integer quantization, power-of-two scaling, and data-driven bit-width optimization achieves $(75.0 \\pm 1.1)\\%$ accuracy and a deterministic latency of $19$ cycles ($52.8\\,\\mathrm{ns}$ at $360\\,\\mathrm{MHz}$), with only $20\\%$ digital signal processor utilization. These results establish a basis for implementation studies using CMS muon data.",
+    "authors": [
+     "Daniel Estrada",
+     "Javier Prado",
+     "Pelayo Leguina",
+     "Andrea Cardini",
+     "Elena Aller",
+     "Santiago Folgueras"
+    ],
+    "published": "2026-11-23T09:54:58Z",
+    "primary": "physics.ins-det",
+    "cats": [
+     "physics.ins-det",
+     "hep-ex"
+    ],
+    "topics": [
+     "ml-hep"
+    ]
+   },
+   {
+    "id": "2611.30896",
+    "url": "https://arxiv.org/abs/2611.30896",
+    "title": "Distillation of a Normalising Flow into a Compact Symbolic Expression for Real-Time Anomaly Detection at the LHC Level-1 Trigger",
+    "abstract": "At the CERN Large Hadron Collider, anomaly detection techniques are becoming popular alternatives to traditional signature-aware new physics searches. For this approach to avoid any bias induced by the real-time event selection applied in the trigger system of ATLAS and CMS, it should be implemented before the first stage of selection, the Level-1 Trigger. This requires deciding to accept or reject each collision within a few microseconds, a latency budget that excludes the most expressive anomaly-detection models. Knowledge distillation has successfully addressed this issue by replacing a complex anomaly-detection model with a lighter student network. This work takes the compression one step further, distilling an anomaly detection model based on a normalising flow into an explicit mathematical formula. Using the SymbolNet symbolic-regression framework with adaptive pruning, the student is a learned functional form based on a chosen subset of the inputs, providing at once feature selection and compression through knowledge distillation. The final expression contains 577 operations and matches the teacher's discrimination on a test dataset, generalising to four benchmark new physics scenarios. Implemented on a Xilinx Virtex UltraScale+ VU13P FPGA, the symbolic student has a nine-cycle latency, corresponding to 42.8\\,ns at the post-route maximum clock frequency, and uses 0.81\\% of the device's LUTs and 0.44\\% of its DSP slices.",
+    "authors": [
+     "Justin Bollhalder",
+     "Florencia Canelli",
+     "Valentina Guglielmi",
+     "Roope Oskari Niemi",
+     "Maurizio Pierini",
+     "Chang Sun",
+     "Francesco Vaselli"
+    ],
+    "published": "2026-11-23T15:59:27Z",
+    "primary": "hep-ex",
+    "cats": [
+     "hep-ex"
+    ],
+    "topics": [
+     "ml-hep"
+    ]
+   },
+   {
+    "id": "2611.31011",
+    "url": "https://arxiv.org/abs/2611.31011",
+    "title": "Lorentz symmetry in self-supervised representation learning",
+    "abstract": "Self-supervised learning (SSL) and explicit physical inductive biases have driven major advances in jet tagging, yet they are typically pursued along separate tracks. In this work, we unify both paradigms by integrating the Lorentz-equivariant Geometric Algebra Transformer slim (L-GATr-slim) architecture with the LeJEPA framework for representation learning. Pre-training on 100 million jets from the JetClass dataset, we optimize towards a latent space, which is invariant across physics-motivated jet augmentations. We demonstrate that enforcing Lorentz symmetry in the latent space is critical for representation quality and that this can be achieved either architecturally or learned via kinematic augmentations. With a standard non-invariant Transformer backbone, LeJEPA outperforms established autoregressive, masked particle modelling, and self-distillation baselines in linear- and MLP-probe accuracy, with L-GATr-slim providing further complementary gains. Across downstream benchmarks, our pre-trained models consistently outperform baselines trained from scratch or through different pre-training objectives.",
+    "authors": [
+     "Andreas Hermansen",
+     "Tobias Golling",
+     "Slava Voloshynovskiy"
+    ],
+    "published": "2026-11-23T16:57:04Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-hep"
+    ]
+   }
+  ],
+  "ml-methods": [
+   {
+    "id": "2611.29762",
+    "url": "https://arxiv.org/abs/2611.29762",
+    "title": "probly: Uncertainty-Aware Machine Learning",
+    "abstract": "As machine learning systems are increasingly deployed in real-world applications, the question of how to represent and quantify uncertainty has moved from a methodological side issue to a central concern. In practice, however, making a model uncertainty-aware is still surprisingly difficult: relevant tools tend to be scattered across libraries, each tied to a particular framework and a particular approach to modeling uncertainty, and the choice of representation, quantification, and evaluation is typically left to the user without much guidance. In this paper, we present probly, a Python package that addresses these issues in a single, modular framework. probly offers (i) lightweight transformations that turn existing models into uncertainty-aware ones, currently supporting PyTorch, scikit-learn, and Flax, (ii) several representations, including second-order distributions, credal sets, and conformal prediction, (iii) the corresponding quantification measures, and (iv) a number of evaluation protocols, which can be combined more or less arbitrarily. Using probly, we conduct a benchmark study on three standard tasks --- selective prediction, out-of-distribution detection, and active learning. In addition, and unlike existing benchmarks, we evaluate suitable methods on first-order data, i.e., datasets for which the target itself is a distribution over outcomes. We further illustrate the flexibility of the package on a number of less standard case studies, including large language models, graph neural networks, and data streams. The package is publicly available at https://github.com/pwhofman/probly.",
+    "authors": [
+     "Paul Hofman",
+     "Clemens Damke",
+     "Timo Löhr",
+     "Santo M. A. R. Thies",
+     "Alireza Javanmardi",
+     "Valentin Margraf",
+     "Jakub Paplham",
+     "Yusuf Sale",
+     "Eyke Hüllermeier",
+     "Maximilian Muschalik"
+    ],
+    "published": "2026-11-22T20:51:06Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "stat.ML"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.30298",
+    "url": "https://arxiv.org/abs/2611.30298",
+    "title": "HEART: Hierarchical Expert Adaptive Refinement Transformer for ECG Representation Learning",
+    "abstract": "Learning robust representations from electrocardiograms (ECGs) is challenging because repeated cardiac cycles coexist with subtle and sparse diagnostic cues in local morphology and rhythm-level context. Existing ECG foundation models commonly rely on Transformerbased patch encoders with uniformly shared dense refinement pathways, limiting adaptive processing across heterogeneous ECG tokens. We propose HEART (Hierarchical Expert Adaptive Refinement Transformer), an ECG foundation model that introduces stage-specific conditional expert refinement during self-supervised pre-training. HEART places a local-level MoE over patch-level representations before temporal contextualization and a global-level MoE over context-integrated token representations after self-attention. Token-level Top-1 routing allows different patches or contextual tokens within the same ECG to follow different expert pathways. On public ECG benchmarks, HEART achieves strong performance under both linear probing and fine-tuning, with particularly large frozen-encoder gains on PTB-XL Form and Rhythm (+6.76 AUROC points each over the strongest protocol-reproduced baseline). Routing analyses provide qualitative evidence of complementary local and global expert specialization. We release our code and pretrained models at https://anonymous.4open.science/r/HEART-5E9F.",
+    "authors": [
+     "Junho Song",
+     "Jong-Hwan Jang",
+     "Joon-Myoung Kwon",
+     "Yong-Yeon Jo"
+    ],
+    "published": "2026-11-23T08:50:50Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.30341",
+    "url": "https://arxiv.org/abs/2611.30341",
+    "title": "FMSNO: Scaling Surface Neural Operators by Learned Flow Matching Reparametrisation",
+    "abstract": "We propose the Flow Matching Surface Neural Operator (FMSNO), which combines learning a shared map from irregular surface meshes to a regular two-dimensional grid on the sphere and training a neural operator on the regular grid. Constructing a separate map for each new geometry can dominate inference time on large meshes. We initially pretrain the mapping by flow matching using precomputed optimal transport maps as targets and then continue its training using combined geometry and CFD objectives. We apply it to unseen geometries in a single forward pass. The learned flow deforms the surface points, and we project its endpoints onto the sphere. We then splat geometric features onto the spherical grid, apply a neural operator (we tested both Fourier and Spherical Fourier Neural Operators), and interpolate its output back to the surface. For a mesh with $N$ points, evaluating the map costs O(N), and the full prediction costs O(NlogN) with the FNO backbone. We evaluate surface pressure prediction on ShapeNet-Car, AhmedML, and DrivAerNet++, and drag coefficient prediction on DrivAerNet++. Across the three pressure benchmarks, our accuracy is on par with that of the most accurate baseline. On a surface with one million points, our method achieves a 354x end-to-end inference speedup over that baseline while keeping the same memory usage asymptotics of O(N).",
+    "authors": [
+     "Vasilii Liamin",
+     "Oleg Bakhteev",
+     "Vladimir Vanovskiy"
+    ],
+    "published": "2026-11-23T09:15:45Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.30387",
+    "url": "https://arxiv.org/abs/2611.30387",
+    "title": "IP-GNO: An Inductive Physics-Informed Graph Neural Operator for Automated Distribution System State Estimation",
+    "abstract": "Distribution System State Estimation (DSSE) is a crucial tool for real-time monitoring, operation, and control of the new-age distribution systems (DSs) due to intensified voltage fluctuations and operational uncertainties introduced by volatile power injection at the nodes. Existing GNN-based approaches generally exhibit limited generalization across networks with different sizes and topologies, making zero-shot cross-grid transfer to unseen DSs a significant challenge. To overcome the aforementioned challenges, this article proposes an Inductive Physics-Informed Graph Neural Operator (IP-GNO) for scalable and transferable DSSE. The proposed framework frames complex bus voltage estimation as an operator-learning problem inspired by the Neumann series expansion of the inverse bus admittance matrix. An admittance-parameterized kernel, incorporating a self-admittance gate in the zeroth-order term and a persistent source-injection skip connection across network layers, captures the underlying electrical dependencies. Additionally, a Physics-Embedded Tree Encoding (PETE) scheme introduces five grid-size-invariant positional features derived from path impedance and a DC-linearized phase-angle prior. A sine-cosine output formulation is further employed to address phase-angle periodicity and ensure stable training. The proposed IP-GNO module is evaluated on two small (IEEE 33- and 69-bus), two medium (IEEE 123- and 136-bus), and one large (2522-bus) sized DSs. Particularly, its zero-shot cross-grid generalization capability is investigated by training the model exclusively on the IEEE 33-bus system and directly evaluating it on four unseen distribution networks of different sizes without retraining or fine-tuning. A detailed comparative analysis with the existing state-of-the-art DSSE tools proves the superiority of IP-GNO, enabling scalable DSSE across heterogeneous DSs.",
+    "authors": [
+     "Sakshi Kumar",
+     "Chhavi Jhari",
+     "Ajay Singh",
+     "Subho Paul"
+    ],
+    "published": "2026-11-23T09:48:04Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "eess.SY"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.29653",
+    "url": "https://arxiv.org/abs/2611.29653",
+    "title": "How Seasonal Reference Choice Changes the Apparent Gains of Chronos Models in Electricity Load Forecasting",
+    "abstract": "When a forecasting model is said to beat a simple baseline, the size of that win depends on which baseline was used. We measure how much this matters for two zero-shot foundation models, Chronos-Bolt and Chronos-2, on hourly electricity load. The study uses 60 fixed cases drawn from eight series in four public collections, with forecasts 24 and 168 hours ahead and up to 2,048 hours of history. Each model is compared with daily persistence, weekly persistence, a weekday hybrid, a daily-weekly blend, and a reference chosen from these on a validation period. We keep every origin-level forecast and estimate uncertainty with paired circular block bootstrap intervals using 168- and 336-hour blocks. A week ahead, Bolt clearly beats weekly persistence in 21 of 30 cases but the validation-selected reference in only 14, and its median gain falls from 17.3% to 11.9%. For Chronos-2 the clear-win counts are 18 and 15. Chronos-2 has lower week-ahead MAE than Bolt in 24 cases, yet only 12 of those differences are clear. The selected reference is not always the harder baseline, since on some test windows it does worse than weekly persistence. The choice of baseline therefore changes both how large the reported gain is and how sure we can be of it. The results are exploratory: the series and windows are related, an earlier pilot was inspected, pretraining overlap cannot be ruled out, and the case-level intervals are not corrected for multiple comparisons.",
+    "authors": [
+     "ChandraMohan K"
+    ],
+    "published": "2026-11-22T17:57:48Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.29675",
+    "url": "https://arxiv.org/abs/2611.29675",
+    "title": "CrysLDM: Latent Diffusion Model for Crystal Material Generation",
+    "abstract": "Generating new crystal materials with desirable chemical properties has long been a challenging task. Existing diffusion models operate in feature space, requiring complex diffusion architectures to model the joint distribution of atom types, coordinates, and lattice structures. This complexity increases the number of diffusion steps, leading to higher training and sampling costs. In this work, we aim to generate novel crystal materials within a time- and resource-constrained setup, where existing models are not well-suited. To address this, we propose CrysLDM, a novel latent diffusion model for 3D crystal materials, which integrates a variational autoencoder and a diffusion model. The VAE encoder maps 3D crystal structures into a latent space, where the diffusion model operates. Since CrysLDM leverages a smooth, lower-dimensional latent space, it simplifies the generative process and accelerates both training and inference. Through extensive experiments on benchmark datasets and tasks, we show that CrysLDM generates stable and valid materials with quality comparable to state-of-the-art methods, while being significantly more efficient in terms of computational resources and time.",
+    "authors": [
+     "Subhojyoti Khastagir",
+     "Kishalay Das",
+     "Pawan Goyal",
+     "Seung-Cheol Lee",
+     "Satadeep Bhattacharjee",
+     "Niloy Ganguly"
+    ],
+    "published": "2026-11-22T18:30:08Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.29681",
+    "url": "https://arxiv.org/abs/2611.29681",
+    "title": "Towards Global Counterfactual-Based Self-Explainable Graph Neural Networks",
+    "abstract": "Graph Counterfactual Explanations (GCEs) have emerged as an effective approach for interpreting Graph Neural Network (GNN) predictions by identifying minimal graph modifications needed to change predictions. However, existing methods suffer from two fundamental limitations: (1) They rely on a post-hoc explanation paradigm, where a separate explainer is trained after the GNN. This sequential optimization prevents the explainer from leveraging how the GNN learned its representations, often resulting in lower-quality explanations. (2) They are largely local, generating counterfactual explanations only for individual samples. Consequently, they fail to capture generalizable patterns across the data distribution, a crucial gap for applications like drug discovery, where global principles enable systematic decision-making across thousands of cases. To address these limitations, we propose GCSGNN (Global Counterfactual-based Self-explainable GNN), a unified framework that integrates counterfactual generation into the GNN architecture, encouraging explanations that faithfully reflect the model's decision-making process. Beyond local explanations, GCSGNN discovers shared latent patterns influencing predictions across graphs, yielding global (i.e., model-level) counterfactual explanations. We further introduce an efficient latent-space counterfactual mechanism that avoids the combinatorial complexity of discrete graph manipulation, enabling scalable discovery of generalizable modification patterns. Extensive experiments on real-world datasets demonstrate that GCSGNN outperforms existing methods in generating effective counterfactual explanations. Our code is available at https://github.com/wendyzheng22/gcsgnn.",
+    "authors": [
+     "Wendy Zheng",
+     "Yinhan He",
+     "Jundong Li"
+    ],
+    "published": "2026-11-22T18:39:40Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.29721",
+    "url": "https://arxiv.org/abs/2611.29721",
+    "title": "LAF-ECG: Multi-Resolution Lead-Aware Fusion of Time-Series and Language Foundation Models for ECG Classification",
+    "abstract": "Automated electrocardiogram (ECG) interpretation has advanced substantially with deep learning, yet many methods remain task-specific and label-dependent. Large language models (LLMs) and time-series foundation models (TSFMs) offer complementary pretrained representations, but integrating them is challenging because of mismatched feature spaces and the lead- and scale-dependent structure of ECG signals. We propose LAF-ECG (Lead-Aware Foundation Fusion for ECG), a dual-foundation framework that extends MedTsLLM with a lead-aware interface to a frozen TSFM backbone while retaining its reprogramming pathway. The proposed framework captures multi-resolution temporal context, fuses temporal and language-aligned ECG representations through adaptive residual integration, and employs branch-specific supervision with cross-branch alignment. LAF-ECG achieves 71.10% accuracy and 62.43% macro-F1 on PTB-XL, and 89.73% accuracy and 65.94% macro-F1 on Chapman-Shaoxing, outperforming MedTsLLM on both datasets. These results highlight the value of preserving lead-specific temporal structure when combining temporal and language foundation representations for ECG classification. The code is publicly available at https://github.com/kkianamm/LAF-ECG.",
+    "authors": [
+     "Kiana Taktehrani",
+     "Maryam Hosseini",
+     "Amir Keynia",
+     "Aram Montazami",
+     "Arash Mohammadi"
+    ],
+    "published": "2026-11-22T19:41:46Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.29764",
+    "url": "https://arxiv.org/abs/2611.29764",
+    "title": "Selecting Stable Sampling Dynamics for Compositional Diffusion: A Feynman-Kac Weight Reduction",
+    "abstract": "Given $K$ separately trained diffusion models, how should one sample from a $β_k$-weighted product of their terminal laws without jointly retraining the experts? Existing Feynman--Kac constructions provide many weighted stochastic differential equations (SDEs) with the correct target marginal. The consequential question is how to select useful proposal dynamics among them. We study an explicit family of weighted diffusions that realizes the same product-of-intermediate-experts trajectory. A scalar parameter $λ$ controls how strongly the proposal drift follows the composed expert score, while an additional Langevin component can be varied independently. Writing $B=\\sum_{k=1}^{K}β_k>0$, we identify the distinguished choice $λ=1/B$. At this value, the aggregate squared-score term in the instantaneous Feynman--Kac log-weight rate cancels exactly. For positive expert exponents, the remaining score-disagreement contribution is non-positive. We call this structural cancellation Feynman--Kac reduction. Under bounded-divergence assumptions, it yields an upper bound on the instantaneous unnormalized log-weight rate for all $λ\\leq 1/B$. For linear diffusion protocols with compactly supported expert data, $λ=1/B$ yields two-sided bounds at every nonterminal time, for exponents of either sign. A corresponding result holds for a single expert under the same divergence assumption. In these two-sided settings, the selected value is unique within the specified family in a universal worst-case sense. Experiments on Gaussian mixtures and molecular sampling compare the analytically predicted stability with actual sampling quality, including instances in which parameter choices different from $λ=1/B$ perform better empirically.",
+    "authors": [
+     "Sunjin Kim",
+     "Sungsoo Ahn",
+     "Michael Chertkov"
+    ],
+    "published": "2026-11-22T20:52:46Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cond-mat.stat-mech",
+     "cs.AI",
+     "stat.ML"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.29779",
+    "url": "https://arxiv.org/abs/2611.29779",
+    "title": "Constrained Diffusion from Binary Evaluations via Learned Doob h-Functions",
+    "abstract": "Conditional generation under constraints that can only be checked on a finished sample, such as a molecular property filter, remains challenging for diffusion models: most guidance methods require differentiable measurement operators, paired conditional data, or rollouts of the base model at every step. We present a framework grounded in the Doob $h$-transform that reduces conditional generation to learning a single function, the probability that a noisy sample denoises into the constraint set. We learn this function from binary clean-sample evaluations alone, by squared-error regression on forward-noised labels; the base model is frozen, one lightweight head is trained per constraint, and noisy-state classifier guidance arises as a special case. The exact guidance step fades where the constraint signal provably vanishes and carries a factor of the inverse probability across samples, which normalized guidance discards: with the schedule and mean step size held fixed, equalizing the step costs 17.0 to 18.5 points of constraint satisfaction on CIFAR-10 at comparable FID, across independently trained estimators. Guidance is more than 50$\\times$ cheaper per satisfying sample than rejection sampling at a 1.7% base rate, raises a Lipinski-type property filter on QM9 from 54.3% to 96.8%, and lifts satisfaction on Stable Diffusion 1.5 from 7.2% to 60.0% at one sixteenth of the cost of derivative-free selection, which reaches 9.0%. These results demonstrate that binary evaluations of clean samples are sufficient supervision for constrained generation across pixel, latent, and molecular diffusion.",
+    "authors": [
+     "Ssaumya Kammal Jaiswal",
+     "Mahfuza Farooque"
+    ],
+    "published": "2026-11-22T21:26:00Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "stat.ML"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.29789",
+    "url": "https://arxiv.org/abs/2611.29789",
+    "title": "Tabular Foundation Models for Weighted Regression and Classification",
+    "abstract": "Weighted regression and classification have applications ranging from missing-data analysis and causal inference to insurance pricing and particle physics. Existing weighted methods must be fitted and tuned on each dataset, which is costly for flexible nonlinear learners. Tabular foundation models avoid this cost. A Transformer is pretrained once on many simulated datasets and then predicts on a new dataset by in-context learning, using its observations as context without further fitting. Recent models such as TabPFN-3.5 surpass tuned conventional methods, but they cannot use sample weights. We develop a general pipeline that adapts such models to weighted prediction through weighted attention, a normalized weighted loss, and pretraining on synthetic weighted prediction tasks from missing-data problems. Applied to TabPFN-3.5, it yields WeightedPFN, which performs strongly on real datasets, both in missing-data problems and in out-of-distribution causal tasks, while running about as fast as linear baselines. We also establish a statistical theory showing that a suitably pretrained weighted Transformer attains the nonparametric minimax rate for weighted regression on new datasets without further fitting.",
+    "authors": [
+     "Junwen Xia",
+     "Yan He",
+     "Dehan Kong",
+     "Zhenhua Lin"
+    ],
+    "published": "2026-11-22T21:47:48Z",
+    "primary": "stat.ML",
+    "cats": [
+     "stat.ML",
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.29856",
+    "url": "https://arxiv.org/abs/2611.29856",
+    "title": "World Models Are the Right Foundation for Simulating Mars Terraforming",
+    "abstract": "Terraforming Mars is a long-horizon, action-conditioned control problem that requires predicting atmospheric responses to interventions over centuries to identify effective policies. This position paper argues that physics-regularized recurrent state-space world models are the most promising foundation for this setting. Data-driven climate emulators lack action-conditioning, and physics-based general circulation models (GCMs) are too expensive for policy search. Among learned world models, recurrent state-space architectures with physics constraints are better suited than transformer-based alternatives: they provide native uncertainty quantification through their stochastic-deterministic decomposition, remain stable under sparse non-terrestrial training data, and enforce physical consistency at each rollout step. To make this position concrete, we describe a potential architecture combining JEPA-inspired latent encoding, universal differential equation constraints, and a Dreamer-lineage planning head. We also introduce MarsWorld, an open benchmark proposal for intervention-conditioned planetary world models, and discuss broader implications and objections.",
+    "authors": [
+     "Sameera S Kashyap",
+     "Akshitha Nagaraj",
+     "Razvan Marinescu"
+    ],
+    "published": "2026-11-23T00:29:34Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "astro-ph.EP",
+     "astro-ph.IM"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.30025",
+    "url": "https://arxiv.org/abs/2611.30025",
+    "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+    "abstract": "Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integration Neuron (DAWIN), a continuous-time primitive for replacing standard neural layers in MLPs, Transformers, and graph neural networks. DAWIN couples spatial projection with elapsed-time-dependent wave excitation and integrates it into a local complex state through closed-form damped evolution, avoiding numerical differential equation solvers. We show that DAWIN generalizes static sinusoidal and memoryless wave neurons on interval-augmented inputs, derive closed-form gradients, and establish bounded-input bounded-output stability for positive damping and sampling intervals bounded away from zero. An associative Triton prefix-scan implementation, DAWINLinear, uses FP32 accumulation and achieves O(log L) parallel depth for sequence length L. Across 11 parameter-matched tasks covering irregular oscillators, MuJoCo dynamics, pedestrian trajectories, and PhysioNet 2012 clinical sequences, DAWIN outperforms Neural CDE on 9 tasks and ReLU-MLP on 8. It achieves the lowest error on dense clinical dynamics (0.9531 NRMSE, winning across all 10 seeds) and ties for the best mortality prediction (0.9993 AUROC). Shuffling elapsed intervals increases error by 58.2%-77.4% on selected dynamics tasks, versus 0.06% on a time-irrelevant control, supporting reliance on physical timing. On NVIDIA B200 GPUs, parallel wave integration accelerates inference by up to 2,630 times over its serial implementation and reduces peak GPU memory by up to 97.6% relative to Mamba in the tested configurations.",
+    "authors": [
+     "Byunggu Yu",
+     "Justin Kim"
+    ],
+    "published": "2026-11-23T04:26:39Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.30153",
+    "url": "https://arxiv.org/abs/2611.30153",
+    "title": "IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow",
+    "abstract": "The Allen-Cahn equation is one of the standard phase-field models for mean-curvature flow (MCF), parameterised by the diffuse-interface width $\\varepsilon$. Practical simulations span a range of $\\varepsilon$, so a single model covering this range is needed. PDE-specific neural operators are accurate but must be retrained at every $\\varepsilon$; general neural operators cover $\\varepsilon$ in one model but lose the phase-field structure of the target. We introduce Interface-Augmented Diffusion-Reaction (IADR), a neural operator that addresses both shortcomings: a target network with a diffusion-and-reaction (DR) structure preserves the phase-field structure of the Allen-Cahn equation, while a hypernetwork that maps $\\varepsilon$ to the weights of this target network amortises the dependence on $\\varepsilon$ across the range. A single IADR matches the per-$\\varepsilon$ specialists on in-distribution data within the prescribed range, retains their cross-shape generalisation under both $\\varepsilon$- and geometry-out-of-distribution shifts, and retains their compact DR target structure with millisecond-scale inference. We further establish a conditional $K$-step rollout error bound under consistency and stability assumptions.",
+    "authors": [
+     "Qinyi Zhang",
+     "Duanyu Feng",
+     "Yangshuai Wang",
+     "Hao Wang"
+    ],
+    "published": "2026-11-23T07:02:27Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "math.NA"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.30162",
+    "url": "https://arxiv.org/abs/2611.30162",
+    "title": "AdaptRouter: Adaptive Routing across Evolving Tasks and Models",
+    "abstract": "Model routing assigns each query to a suitable foundation model, but tasks and available models keep changing, and existing routers are either untrained for the pool at hand or fit once and forget earlier tasks when updated. We present AdaptRouter, an adaptive router trained by policy learning: a compact multimodal decision model reads each question with cards describing the current experts and learns from native task feedback, without routing labels, to select one frozen expert. Open-weight and API experts share the router, its inputs, and the quality-cost trade-off but use different losses: cheap open-weight experts are explored with RL, whereas paid API experts are queried once and their cached feedback is reused as soft labels. New tasks are learned without replay, new experts enter as cards, and an open-weight quality-first advantage provably keeps cost from overriding quality. Across four task stages, AdaptRouter loses at most 0.4 points on earlier tasks, whereas feedback-trained routers lose up to 7.0, and as its pool grows from three to ten experts, its accuracy rises from 67.2% to 72.1%. On five API models, it exceeds GPT-6.1 Sol and GPT-6 Astra (low) by over 22 points at under a third of their cost.",
+    "authors": [
+     "Jingpu Yang",
+     "Fengxian Ji",
+     "Tianhao Li",
+     "Juanfan Wu",
+     "Yufeng Wang",
+     "Shuxin Zheng",
+     "Xiaoqing Zhang"
+    ],
+    "published": "2026-11-23T07:08:06Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   }
+  ],
+  "ml-genetics": [
+   {
+    "id": "2611.30955",
+    "url": "https://arxiv.org/abs/2611.30955",
+    "title": "LeCellModel: Interpretable Density Estimation over the Gene Expression Manifold",
+    "abstract": "Representation learning for single-cell RNA-seq has been evaluated by the identities representations capture -- cell types, lineages, perturbations -- rather than how faithfully they model the distribution of cell states on the gene expression manifold. As a result, density estimation, rare-state detection, perturbation scoring, and gene-level attribution are bolted onto frozen embeddings as separate models, disconnected from the geometry of the data. We argue that modeling the distribution of cell states should be the primary objective, and that representation quality follows from it. Building on LeJEPA, whose SIGReg objective enforces a provably optimal isotropic Gaussian latent, we introduce LeCellModel, which reads the encoder's Jacobian log-volume (JEPA-SCORE) under this Gaussian latent as a relative typicality score. Across several datasets, LeCellModel outperforms established methods on the scIB benchmark for representation quality. Furthermore, we show that LeCellModel enables detection of rare expression states using JEPA-SCORE as a typicality measure, applying it to a controlled cytokine panel, where it identifies stimulated cells across minority fractions and tracks pathway-response magnitude. We introduce gene-level interpretability of the typicality score -- to our knowledge, the first method for analyzing JEPA-SCORE in feature space. Leveraging this framework, LeCellModel recapitulates the known association of a profibrotic macrophage program with idiopathic pulmonary fibrosis, and discovers a CD177+ activated regulatory T cell subpopulation previously described only in tumor contexts. Both findings emerge directly from the geometry of the learned embedding, without relying on supervised annotations.",
+    "authors": [
+     "Gil Karin",
+     "Artemii Bakulin",
+     "Nir Yosef"
+    ],
+    "published": "2026-11-23T16:30:49Z",
+    "primary": "q-bio.GN",
+    "cats": [
+     "q-bio.GN",
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.31227",
+    "url": "https://arxiv.org/abs/2611.31227",
+    "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
+    "abstract": "Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands of genes, but cover relatively few cellular contexts. Predicting perturbation responses in unseen cell types and identifying perturbed genes from their transcriptional effects therefore remain challenging. Here, we show that both tasks can be addressed through a common linear decomposition of transcriptional responses into shared and perturbation-specific components. Building on this principle, we introduce BiPert, a simple linear framework for both forward perturbation prediction and inverse identification. For forward prediction, BiPert outperforms existing methods that use no external biological knowledge when predicting gene expression changes in unseen cell lines. Its few-shot extension, BiPert-FS, adapts to new cell lines using as few as ten measured perturbations. For inverse identification, BiPert-ID identifies perturbed genes from single-cell expression profiles, outperforming deep-learning methods in unseen cell lines and donors. We further show that perturbations whose effects transfer more consistently across cellular contexts are also easier to identify, even after controlling for perturbation effect size. Together, these results establish a connection between perturbation transfer and identification, and demonstrate that simple linear models provide strong, interpretable baselines for both tasks.",
+    "authors": [
+     "Abhishek Sharma",
+     "Aleksej Zelezniak"
+    ],
+    "published": "2026-11-23T18:58:32Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "q-bio.CB",
+     "q-bio.GN",
+     "q-bio.QM"
+    ],
+    "topics": [
+     "ml-methods",
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.30601",
+    "url": "https://arxiv.org/abs/2611.30601",
+    "title": "Learning Multimodal Representations from Partially Paired, Small-Scale Data",
+    "abstract": "Modeling multimodal data from partially paired samples is critical for advancing domains like biomedicine, where vast unimodal datasets and foundation models exist but paired data remains scarce. Existing fusion methods rely on large-scale paired datasets, limiting their use in scenarios with incomplete pairing. We introduce CAMEO, an adversarial learning-based modality fusion framework that integrates modalities from small, partially paired datasets. Combining any pre-trained unimodal encoder with a cross-modal latent alignment mechanism, CAMEO learns shared representations requiring only minimal paired samples. Evaluated on computational pathology tasks such as niche classification and cell type composition prediction, CAMEO achieves superior data efficiency, outperforming contrastive approaches like CLIP in low paired-data regimes, and highlighting the benefits of adversarial alignment when paired annotations are scarce. To facilitate further research, we additionally release a fully annotated HuggingFace dataset comprising three organs and paired image and gene expression modalities. By extending fusion methods to address limited pairing and small-scale datasets, we provide a framework that advances multimodal learning and broadens its applicability to real-world biomedical problems.",
+    "authors": [
+     "Merel Kuijs",
+     "Till Richter",
+     "Rushin H. Gindra",
+     "Korbinian Traeuble",
+     "Christian Matek",
+     "Rebeka Luknárová",
+     "Tingying Peng",
+     "Fabian J. Theis"
+    ],
+    "published": "2026-11-23T12:37:18Z",
+    "primary": "cs.AI",
+    "cats": [
+     "cs.AI",
+     "q-bio.GN"
+    ],
+    "topics": [
+     "ml-methods",
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.29935",
+    "url": "https://arxiv.org/abs/2611.29935",
+    "title": "GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding",
+    "abstract": "Antibodies play a central role in the human immune system, and their design is critical for vaccine development, therapeutic intervention, and improving human longevity. However, the vast combinatorial search space of antibodies poses a fundamental challenge for de novo discovery. Recent advances in deep learning, particularly denoising diffusion models, have demonstrated strong potential in protein inverse folding. Nevertheless, existing approaches are largely constrained to learning from natural antibody repertoires, thereby generating sequences that closely resemble natural antibodies. Such similarity, however, does not necessarily translate into improved functional performance in downstream applications. In this work, we develop a novel generative protein design model that enables the generation and optimization of antibody sequences tailored to specific downstream tasks and target metrics. Besides training on given an antibody dataset, we guide the generative model by an antibody-antigen binding affinity predictor for conditional discrete diffusion. The model is pre-trained on a given antibody dataset. Meanwhile, an antibody-antigen binding affinity predictor is incorporated as a conditional signal in a discrete diffusion framework, where a regressor serves as the conditional probability to guide the learning of the amino acid probability distribution of sequences under the objective of affinity optimization. In silico experiments demonstrate that our antibody design model achieves performance comparable to state-of-the-art approaches, while the proposed regressor effectively improves binding affinity, as validated by an independent external predictor. Furthermore, our results highlight that the combination of finetuning and supervised guidance provides a powerful paradigm for adapting pretrained models to downstream tasks.",
+    "authors": [
+     "Mingwei Liu",
+     "Xiao Liu",
+     "Kai Yi",
+     "Feng Tan",
+     "Yu Guang Wang"
+    ],
+    "published": "2026-11-23T02:53:21Z",
+    "primary": "q-bio.QM",
+    "cats": [
+     "q-bio.QM"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.30452",
+    "url": "https://arxiv.org/abs/2611.30452",
+    "title": "SCAN: Neural Additive Networks for Scalable High-Order Component Selection and Estimation",
+    "abstract": "Functional ANOVA models express a prediction as a sum of main effects and interactions, but existing neural functional ANOVA models require the interactions to be specified in advance, which forces a trade-off between missing higher-order structure and the cost of enumerating many interactions. We propose SCAN (Scalable Component Additive Networks), which learns which features each basis function combines, so that components of different orders are selected and estimated jointly without enumerating candidates. The learned component index sets form a small candidate collection on which post-hoc identification is carried out efficiently. A global component-selection parameter shares information across basis functions, and truncating negligible component-selection weights gives a sparse model that is identified after training. We establish universal approximation, a minimax optimal rate up to a logarithmic factor, and component selection consistency, which together imply that the discovered components contain all identified true components with probability tending to one. In synthetic experiments, SCAN learns components whose maximum order is close to the true one, and recovers higher-order components more accurately than the baseline models, with post-hoc identification taking a few seconds for 100 inputs. SCAN also outperforms most neural functional ANOVA models in prediction on the benchmark datasets and trains at a much lower cost than exhaustive second-order models. We also apply SCAN to predict treatment response in breast cancer from 12,502 gene-expression variables.",
+    "authors": [
+     "Seokhun Park",
+     "Kunwoong Kim",
+     "Yongdai Kim"
+    ],
+    "published": "2026-11-23T10:42:34Z",
+    "primary": "stat.ML",
+    "cats": [
+     "stat.ML",
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   }
+  ]
+ }
+}
