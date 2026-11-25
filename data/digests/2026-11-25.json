@@ -1,0 +1,698 @@
+{
+ "date": "2026-11-25",
+ "generated": "2026-11-25T17:14+00:00",
+ "window": [
+  "2026-11-23T17:14+00:00",
+  "2026-11-25T17:14+00:00"
+ ],
+ "scanned": 282,
+ "topics": {
+  "charm": [
+   {
+    "id": "2611.32309",
+    "url": "https://arxiv.org/abs/2611.32309",
+    "title": "Measurements of $|V_{cd(s)}|$ , decay constants, and form factors in (semi-)leptonic $D_{(s)}$ decays at BESIII",
+    "abstract": "The BESIII experiment accumulated the world's largest charm-meson samples. This proceeding presents recent measurements of decay constants, transition form factors, and CKM matrix elements from (semi-)leptonic \\(D^+\\) and \\(D_s^+\\) decays based on these datasets.",
+    "authors": [
+     "Medina Ablikim"
+    ],
+    "published": "2026-11-24T10:06:34Z",
+    "primary": "hep-ex",
+    "cats": [
+     "hep-ex"
+    ],
+    "topics": [
+     "charm",
+     "cp"
+    ]
+   }
+  ],
+  "cp": [
+   {
+    "id": "2611.31348",
+    "url": "https://arxiv.org/abs/2611.31348",
+    "title": "Flavor Alignment and Operator Sensitivity in a Left--Right Universal-Seesaw Model",
+    "abstract": "We analyse the flavour structure and low-energy operator sensitivity of a parity-related doublet universal-seesaw model with an imposed lepton triality. Degenerate bare singlet masses permit a basis in which light-light tree neutral flavour transitions vanish; the physical heavy masses remain nondegenerate. We connect this alignment property to the axial and scalar differences measured by $B_{d,s}^0\\toμ^+μ^-$ and reproduce the six-state charged-vector mixing amplitudes for five reference masses. The reference analysis identifies kaon CP violation as the more sensitive flavour probe. Historical kaon data disfavour the lower reference masses, while estimates suggest that dimuon and radiative $B$-decay effects are harder to resolve at present precision. These comparisons use the specified reference spectrum and historical inputs. We also compare charged and neutral resonance rates with published search benchmarks. The vacuum hierarchy entails a cancellation of about $5\\times10^{-6}$ at $M_{W_R}=80\\,\\mathrm{TeV}$. The initially thermal Dirac-neutrino branch has a dataset-dependent extra-radiation tension, strengthened in an illustrative mass-dependent decoupling estimate. For dimuon decays we establish operator selection rules and sensitivity estimates. The numerical flavour results cover meson mixing and charged-vector dipoles. We give no dimuon branching-fraction prediction or global allowed region.",
+    "authors": [
+     "Claudio Coriano",
+     "Paul H. Frampton"
+    ],
+    "published": "2026-11-23T18:08:01Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph"
+    ],
+    "topics": [
+     "cp"
+    ]
+   },
+   {
+    "id": "2611.32106",
+    "url": "https://arxiv.org/abs/2611.32106",
+    "title": "Updated T2K measurement of neutrino oscillation parameters with the first data from the Gadolinium-loaded far detector",
+    "abstract": "The T2K experiment presents updated measurements of neutrino oscillation parameters using $21.4(16.3)\\times10^{20}$ protons on target (POT) in (anti-)neutrino mode at the far detector, Super-Kamiokande. This analysis uses an additional neutrino dataset of $1.7 \\times 10^{20}$ POT compared to the previous result, and for the very first time, data collected with Super-Kamiokande doped with Gadolinium (Gd). Significant improvements were introduced in the far detector selection and systematic error treatment. Both semi-frequentist and Bayesian analyses are presented, including results on $\\sin^{2} θ_{23}$, $Δm^2_{32} $, $\\sin^{2} θ_{13}$ and $δ_{CP}$. Both analyses favor normal mass ordering with a nearly maximal CP-violating phase and are compatible with neutrino maximal mixing, slightly favouring the upper $θ_{23}$ octant.",
+    "authors": [
+     " The T2K collaboration"
+    ],
+    "published": "2026-11-24T07:24:46Z",
+    "primary": "hep-ex",
+    "cats": [
+     "hep-ex"
+    ],
+    "topics": [
+     "cp"
+    ]
+   },
+   {
+    "id": "2611.32309",
+    "url": "https://arxiv.org/abs/2611.32309",
+    "title": "Measurements of $|V_{cd(s)}|$ , decay constants, and form factors in (semi-)leptonic $D_{(s)}$ decays at BESIII",
+    "abstract": "The BESIII experiment accumulated the world's largest charm-meson samples. This proceeding presents recent measurements of decay constants, transition form factors, and CKM matrix elements from (semi-)leptonic \\(D^+\\) and \\(D_s^+\\) decays based on these datasets.",
+    "authors": [
+     "Medina Ablikim"
+    ],
+    "published": "2026-11-24T10:06:34Z",
+    "primary": "hep-ex",
+    "cats": [
+     "hep-ex"
+    ],
+    "topics": [
+     "charm",
+     "cp"
+    ]
+   }
+  ],
+  "b": [
+   {
+    "id": "2611.31600",
+    "url": "https://arxiv.org/abs/2611.31600",
+    "title": "Thermodynamic constraints on warm inflation with the Standard Model",
+    "abstract": "In warm inflation with the Standard Model (SM), an axion-like inflaton dissipates energy into the plasma through QCD sphaleron transitions. Current predictions assume a friction linear in the bias, defined as the free energy released per transition in units of the temperature. The friction, however, has only been simulated at moderate biases in pure SU(2) gauge theory. We show that, during slow roll, energy conservation, the axial anomaly and thermodynamics relate the bias to the quark chemical potentials generated by the transitions, independently of the form of the friction and of the reaction network in the plasma. A bias within the simulated range requires chemical potentials a few times the temperature, which typically lead to Higgs condensation. Conversely, small chemical potentials imply a large bias and, unless the dissipation is very weak, a temperature far above the axion decay constant, which requires a cutoff of the effective description above that temperature. We illustrate that deviations from linearity beyond the simulated range can change the inflationary dynamics qualitatively, so that reliable predictions require a real-time computation of the friction and the noise in QCD at large bias. With high-scale lepton-number violation, the quark chemical potentials also source a $B-L$ asymmetry that exceeds the observed value by many orders of magnitude already during inflation. Finally, we show that the same relation between the bias and the chemical potentials holds for derivative couplings of the inflaton to SM currents. Unless the dissipation is very weak, warm inflation driven by such couplings therefore requires either a temperature far above the decay constant or chemical potentials that typically lead to Higgs condensation.",
+    "authors": [
+     "Martin A. Mojahed"
+    ],
+    "published": "2026-11-23T21:45:26Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "astro-ph.CO"
+    ],
+    "topics": [
+     "b"
+    ]
+   }
+  ],
+  "spectroscopy": [
+   {
+    "id": "2611.32531",
+    "url": "https://arxiv.org/abs/2611.32531",
+    "title": "Description of the decay $φ\\to π^+π^-$ in the NJL chiral quark model",
+    "abstract": "The doubly suppressed decay $φ\\to π^+π^-$ is described in the chiral NJL quark model. This decay occurs in violation of the OZI rule and isotopic invariance. Two possible channels are considered. The first channel involves $φ-ω$ mixing and the subsequent decay of $ω\\to π^+π^-$. In the second channel, the decay occurs via an intermediate $ρ$ meson.",
+    "authors": [
+     "M. K. Volkov",
+     "A. A. Pivovarov",
+     "K. Nurlan"
+    ],
+    "published": "2026-11-24T12:55:36Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph"
+    ],
+    "topics": [
+     "spectroscopy"
+    ]
+   },
+   {
+    "id": "2611.32842",
+    "url": "https://arxiv.org/abs/2611.32842",
+    "title": "Perturbative unitarity bounds from qubit entanglement in scalar scattering and QED",
+    "abstract": "In the framework of $2\\to 2$ relativistic scattering described by the perturbative $S$-matrix, we perform a comprehensive analysis of the properties of quantum channels obtained by tracing out the momentum from the scattered state. We work in two distinct scenarios with qubit degrees of freedom: flavored scalar contact interactions and QED, focusing in particular on initial-state leptons with transverse polarization. We identify the conditions that make the quantum channel unitary, calculate the entanglement of the qubits through the concurrence, and use its maximally allowed value to extract perturbativity upper bounds on the coupling constants. We find that the limits are often more constraining than the corresponding partial-wave expansion bounds, and that they allow us to bypass some of the obstacles associated in the latter with the singular behavior of forward scattering.",
+    "authors": [
+     "Shiuli Chatterjee",
+     "Kamila Kowalska",
+     "Enrico Maria Sessolo"
+    ],
+    "published": "2026-11-24T15:52:31Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-th",
+     "quant-ph"
+    ],
+    "topics": [
+     "spectroscopy"
+    ]
+   },
+   {
+    "id": "2611.33140",
+    "url": "https://arxiv.org/abs/2611.33140",
+    "title": "$QQ\\bar Q\\bar Q$ Quark System and Gauge/String Duality II: String Breaking",
+    "abstract": "This is the second of two companion papers in which we continue developing the construction of the fully heavy tetraquark system using the gauge/string duality. Here, we extend this construction to model $SU(3)$ gauge theory with two light flavors of equal mass. As an application, we analyze the two lowest Born-Oppenheimer potentials, both analytically and numerically, for rectangular and collinear geometries. Our analysis reveals several critical scales associated with string reconnection and breaking, as well as junction annihilation and pinching. In addition, we find that the string tension is universal, whereas the string breaking distance is not.",
+    "authors": [
+     "Oleg Andreev"
+    ],
+    "published": "2026-11-24T18:55:55Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "hep-lat",
+     "hep-th",
+     "nucl-th"
+    ],
+    "topics": [
+     "spectroscopy"
+    ]
+   }
+  ],
+  "ml-hep": [
+   {
+    "id": "2611.31403",
+    "url": "https://arxiv.org/abs/2611.31403",
+    "title": "OmniX: A first jet and event model",
+    "abstract": "Foundation models are a new approach to building machine learning algorithms for particle physics. Their central idea is that a single model can be adapted to a variety of downstream tasks, amortizing training costs. So far, most foundation model prototypes have operated on the constituents of a single jet. This limits their usefulness for physics problems at the scale of full events, such as distinguishing different processes, and restricts their performance, as global correla- tions are invisible to the model. Here, we introduce OmniX, an architecture that operates on both single jets and whole events within a single model. Using the jet-level JetClass and Top-tagging datasets and the event-level Collide-2V dataset, we demonstrate that OmniX trained jointly on single jets and full events matches or exceeds otherwise equivalent jet-only and event-only models in generation and classification.",
+    "authors": [
+     "Anna Hallin",
+     "Gregor Kasieczka",
+     "Henning Rose"
+    ],
+    "published": "2026-11-23T19:02:23Z",
+    "primary": "hep-ph",
+    "cats": [
+     "hep-ph",
+     "cs.LG",
+     "hep-ex",
+     "physics.data-an"
+    ],
+    "topics": [
+     "ml-hep"
+    ]
+   },
+   {
+    "id": "2611.32261",
+    "url": "https://arxiv.org/abs/2611.32261",
+    "title": "A quantum-inspired spiking variational autoencoder for robust anomaly detection at the LHC",
+    "abstract": "Model-agnostic searches for new physics at the Large Hadron Collider utilise unsupervised anomaly detection, where quantum and neuromorphic detectors represent potential approaches. We develop the first fully spiking variational autoencoder, a quantum-inspired spiking variational autoencoder (QSVAE), built on the quantum-inspired leaky integrate-and-fire (QLIF) neuron. In this work we recast the neuron from a measurement-based circuit to a differentiable computational unit. This neuron is benchmarked against other classical, spiking, and quantum models on an LHC di-jet latent space. We show that under noise perturbations the QLIF network retains $0.95$ of its clean accuracy, while accuracy retention for twelve classical models falls to $0.74$-$0.85$. The QLIF anomaly scores respond $3.5$-fold less to the noise perturbation than any of the control model's scores. We compare against a periodic classical control that reproduces the QLIF effect, isolating it to the $\\sin^2$ membrane map. This membrane map is a native regulariser that decouples robustness from model capacity supplied by the qubit state space. We demonstrate this through several benchmarks and ablation studies to characterise the performance landscape of the quantum-neuromorphic model space.",
+    "authors": [
+     "Dean Brand",
+     "Donovan Slabbert",
+     "Chanelle Matadah Manfouo",
+     "Francesco Petruccione"
+    ],
+    "published": "2026-11-24T09:32:13Z",
+    "primary": "quant-ph",
+    "cats": [
+     "quant-ph",
+     "physics.data-an"
+    ],
+    "topics": [
+     "ml-hep"
+    ]
+   }
+  ],
+  "ml-methods": [
+   {
+    "id": "2611.32598",
+    "url": "https://arxiv.org/abs/2611.32598",
+    "title": "On the Effectiveness of Resampling for Supervised Graph Anomaly Detection",
+    "abstract": "Class imbalance and scarce anomaly labels motivate oversampling in supervised graph anomaly detection (GAD), but its benefits across detectors and benchmarks remain unclear. In the low-label setting of GADBench, with 20 labelled anomalies and 80 labelled normal nodes, we compare class weighting and up to six oversampling strategies in ten detector configurations from three families: graph neural networks (GNNs), tree ensembles on neighbourhood-aggregated features, and tabular foundation models, on 17 datasets. On the eight datasets with organic anomalies, no strategy has a statistically resolved average gain in any configuration, and which nodes are labelled matters as much as the strategy. On the nine datasets with injected anomalies, Gaussian-noise oversampling (ROSE) gains up to 5.2 AUPRC points in four of the six tree and tabular foundation model configurations, and in all six only on attribute-swap anomalies; in four GNNs its gain is not distinguishable from zero. This gain depends on the injection recipe, which gives swapped nodes an atypical feature norm: it is no longer distinguishable from zero when the swap uses a single random donor or preserves the norm, although most detectors then also stop detecting the swaps. Over the 17 datasets, tuning the tree detectors adds about three points, as much as ROSE, and cuts ROSE's gain by about half or more. With the same source nodes and class weight, sampled graph views are not distinguishable from plain copies of those nodes. We recommend tuning baselines, repeating labelled splits, reporting organic and injected anomalies separately, and checking label-free degree and feature-norm baselines.",
+    "authors": [
+     "Cyril Perosino",
+     "Rino Di Chiara",
+     "Hamida Seba"
+    ],
+    "published": "2026-11-24T13:36:12Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31526",
+    "url": "https://arxiv.org/abs/2611.31526",
+    "title": "Diagnosing Epistemic Uncertainty in Neural Operators: Effects of Initialization, Discretization, and Function Sampling",
+    "abstract": "Neural operators provide efficient surrogates for mappings between function spaces, but their reliability cannot be characterized by the performance of a single trained model. Existing neural operator uncertainty quantification approaches often characterize predictive uncertainty without separately identifying the contributions of individual sources of epistemic uncertainty. Finite sampling of the training function space, output discretization, and model initialization can produce substantial variation among learned operators even when the underlying physical problem is deterministic. We systematically investigate these sources of epistemic uncertainty across a diverse set of operator learning architectures. Across our experiments, we train approximately 46,000 neural operator models and construct ensembles over training datasets, model initializations, and output discretizations to characterize distributions of relative $L_2$ error rather than individual trained realizations. We find substantial architecture-dependent differences in epistemic uncertainty, with model initialization often accounting for the largest proportion of variance in relative $L_2$ error. The ranked performance of neural operator architectures can invert as the number and spatial distribution of output samples change, with the best architectures under sparse or randomly sampled observations differing from those at higher-resolution or structured discretizations. Furthermore, ensembles that reliably characterize aggregate operator error can provide unreliable estimates of error quantiles for individual test functions. These results highlight the importance of distinguishing the sources of epistemic uncertainty when evaluating neural operator reliability and establishing robust benchmarking practices.",
+    "authors": [
+     "Tian Yu Yen",
+     "Yucheng Fu",
+     "Pratanu Roy",
+     "Guang Lin",
+     "Michael Penwarden"
+    ],
+    "published": "2026-11-23T20:33:43Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "stat.ML"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31850",
+    "url": "https://arxiv.org/abs/2611.31850",
+    "title": "Two-Stage Post-Training for Flow-Based Embodied Foundation Models",
+    "abstract": "Large-scale pretraining provides embodied models with general capabilities, but reliable task execution still requires post training. In multitask settings, supervised fine-tuning (SFT) faces distribution mismatch between training and deployment, whereas reinforcement learning (RL) is limited by sparse rewards and uneven learning progress across tasks. Multi-teacher on policy distillation (MOPD) consolidates expert capabilities through dense supervision on the model's own trajectories, but achieving performance beyond the teachers remains challenging. We propose a two-stage post training framework for flow-based embodied models, constructing distillation objectives from the velocity regression formulation of conditional flow matching. Stage 1 efficiently consolidates expert capabilities through MOPD. Stage 2 combines RL with teacher distillation that weights velocity errors according to the sampling noise, where distillation is restricted to failed trajectories to supplement sparse rewards with dense guidance without directly constraining successful behaviors. Experiments across multiple models and benchmarks show that the framework outperforms joint SFT and exceeds the corresponding teachers' aggregate success rates. Sample efficiency comparisons show higher success rates than direct RL with fewer environment interactions.",
+    "authors": [
+     "Jiaming Zhang",
+     "Yao Lyu",
+     "Haoning Wang",
+     "Yongjun Chen",
+     "Liping Zhang",
+     "Shengbo Eben Li"
+    ],
+    "published": "2026-11-24T02:49:16Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.32033",
+    "url": "https://arxiv.org/abs/2611.32033",
+    "title": "Scale-Robust and Global-Aware Representation Learning for Multivariate Time Series Anomaly Detection",
+    "abstract": "Multivariate time series anomaly detection (MTSAD) is an essential task for identifying abnormal system behaviors and supporting reliable operations across diverse real-world applications. Despite substantial advances in MTSAD, two key challenges in representation learning remain underexplored: (C1) how to learn scale-robust temporal representations that capture anomalies across different temporal scales and (C2) how to learn global-aware relational representations that capture inter-series dependencies by incorporating series-level global characteristics beyond local windows. To address these challenges, we propose STAGER, a novel method that jointly learns two complementary representations: scale-robust temporal and global-aware relational representations. Specifically, STAGER employs (1) a scale-robust temporal encoder that constructs a multi-scale temporal directed acyclic graph (DAG) to learn scale-robust temporal representations and (2) a global-aware relational encoder that incorporates learnable series-level global embeddings into the temporal representations and models inter-series relationships through graph neural networks. Two complementary auxiliary objectives further enhance the distinctiveness of the global embeddings. Extensive experiments on three real-world benchmark datasets demonstrate that STAGER achieves the best average rank among ten evaluated MTSAD methods across three evaluation metrics. Ablation and sensitivity analyses validate the effectiveness of the proposed components and auxiliary objectives, while efficiency evaluations demonstrate that STAGER achieves a favorable trade-off between detection performance and inference time compared with existing methods.",
+    "authors": [
+     "Gyuwon Lee",
+     "Saejoon Park",
+     "Won-Seok Hwang",
+     "Bogoan Kim",
+     "Yunyong Ko"
+    ],
+    "published": "2026-11-24T06:15:23Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.32225",
+    "url": "https://arxiv.org/abs/2611.32225",
+    "title": "Joint Classification and Generation on Tabular Data: an Empirical Study",
+    "abstract": "Many applications of machine learning on tabular data need both a classifier and a generator of realistic records. The default is to train two separate models, whereas a single joint model promises both from one set of weights. Several families of tabular deep learning models can be turned into such a joint model, which raises the question of which joint model is preferable at which computational budget. In this empirical study, we introduce and compare joint models based on four state-of-the-art tabular data modeling families (energy-based models, probabilistic circuits, tabular foundation models and tabular diffusion models) against measured FLOPs and wall-clock time, on 29 classification datasets. Methods are evaluated based on two defined aggregate scores that take into account different aspects of prediction and generation. We then also compare these joint models with every pair of a separate classifier and generator at different computational budgets, to see when a joint model may be a defendible choice against the regular practice of keeping a separate classifier and generator. We find that the best joint model is a probabilistic circuit at the smallest budgets and, beyond that, a tabular foundation model that generates column by column using a regressor (TabICL). Compared with pairs of separate models, this study finds a joint model is rarely preferable but often very close to the best pair, without the hassle of training and maintaining two separate models.",
+    "authors": [
+     "Tim d'Hondt",
+     "Oleksii Furman",
+     "Damian Kwolek",
+     "Jan Poręba",
+     "Maciej Zieba",
+     "Mykola Pechenizkiy"
+    ],
+    "published": "2026-11-24T09:09:07Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.32801",
+    "url": "https://arxiv.org/abs/2611.32801",
+    "title": "Scaling Laws of Ensemble Uncertainty in Language Models",
+    "abstract": "Many use cases for large language models (LLMs)---from AI safety to exploration and human interaction---can benefit from epistemic uncertainty estimates. We argue that existing Bayesian Deep Learning solutions, which are often restricted to a fixed model family, fail to capture the full epistemic uncertainty at practical LLM scales. This is because the error due to the bounded capacity of the model family remains invisible to disagreement among models supported by the prior. We relate this error to the well-known power-law scaling of LLM loss with model size. We then show that a second power law quantifies the shrinking disagreement within ensembles as model size increases. Its slower decay relative to the capacity law above suggests that ensembles capture a growing share of epistemic uncertainty and become more competitive as an axis for scaling, compared to a single larger model. Finally, a third power law quantifies the loss of ensemble diversity as members share a larger fraction of training before branching, and therefore identifies a further limitation, beyond the capacity error, for LoRA ensembles and optimization-based or second-order methods that approximate uncertainty around a single training solution. At a high level, these findings suggest diverse ensembles can be a promising axis, both for scaling and uncertainty quantification at larger scales.",
+    "authors": [
+     "Siamak Ravanbakhsh",
+     "David Nitchi",
+     "Khang Ngo"
+    ],
+    "published": "2026-11-24T15:23:55Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI",
+     "cs.NE"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31479",
+    "url": "https://arxiv.org/abs/2611.31479",
+    "title": "Transferable, Time-Parallel Graph Dynamics via Space-Time Factorization",
+    "abstract": "Time-parallel neural operators (FNO and successors) have transformed PDE surrogates on regular grids. Mesh-based operators (MeshGraphNets, Transolver) extend operator learning to irregular geometries, but jointly learning across diverse topologies while retaining non-recurrent temporal evaluation remains challenging. We propose space-time factorization: partition the model into local temporal operators (learned, graph-independent) and a spatial mixer that propagates information across nodes without graph-dependent learned parameters. This structural condition lets the same parameters run on unseen graphs; non-recurrent instances also admit time-parallel evaluation. Accurate zero-shot transfer further depends on controlling three information leaks (graph-dependent weights, graph-specific features, and graph-correlated training distributions) and on suitable task physics and training coverage. The protocol applies to two distinct spatial-mixer families, fixed-spectral and learned-attention. We validate the principle in three domains. For floodwave propagation in river networks, a 27K-parameter model trained on the Yangtze transfers zero-shot to the Mississippi with median NSE 0.998 in boundary-conditioned operational evaluation, training 5.5x faster than a stabilized recurrent baseline. On cross-geometry Navier-Stokes, the three-seed SepFNO mean relative vorticity error on five unseen targets falls by about 28% from 5 to 12 training geometries, with a consistent single-run SepTransolver trend. On cross-city traffic forecasting, zero-shot transfer reaches within 12.9% of an oracle trained on the target city. Across settings, cross-geometry error decreases with both the number of training geometries and their relatedness to the test, at a rate depending on the spatial mixer. This opens the path to pooled-data, foundation-style models for graph dynamics on irregular topologies.",
+    "authors": [
+     "Wencong Yang",
+     "Chaopeng Shen",
+     "Abdolmehdi Behroozi"
+    ],
+    "published": "2026-11-23T19:50:40Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "physics.geo-ph"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31527",
+    "url": "https://arxiv.org/abs/2611.31527",
+    "title": "ECLIPSE: Embedding-Centered Foundation-Model Federated Knowledge Transfer for Data-Free Edge Intelligence",
+    "abstract": "Foundation Models (FMs) are envisioned to become an integral component of intelligent federated edge networks because of their strong representation and generalization capabilities. However, their integration into resource-constrained and privacy-sensitive edge environments remains challenging. This challenge is particularly pronounced in data-free settings, where no shared, public, or server-accessible reference dataset is available to establish a common reference space for aligning distributed knowledge. To address this challenge, we propose ECLIPSE, which is an embedding-centered FM-based federated knowledge transfer framework developed for data-free edge intelligence. ECLIPSE enables edge intelligence capitalizing on a server-hosted FM without sharing raw data, local models, or a public reference dataset. It establishes a shared embedding reference space through which edge devices encode their local task knowledge. Only the resulting embeddings are transmitted to the server for alignment and aggregation. Using the aggregated embeddings, the server constructs a task-aware surrogate dataset through an embedding-guided generative process. This surrogate dataset is then used to adapt the server-hosted FM to the downstream task. The adapted FM is subsequently distilled into a lightweight global model and distributed to the edge devices. This process allows edge devices to benefit from both distributed task knowledge and the generalization capabilities of the FM. Experimental results across diverse classification datasets show that ECLIPSE outperforms conventional Federated Learning (FL) and data-free Federated Knowledge-Transfer (FKT) baselines. It also achieves competitive performance compared with databased approaches. Furthermore, the framework remains robust under statistical and model heterogeneity across different data distributions and local architectures.",
+    "authors": [
+     "S. Kawa Atapour",
+     "S. Jamal Seyedmohammadi",
+     "Maryam Hosseini",
+     "S. Mohammad Sheikholeslami",
+     "Jamshid Abouei",
+     "Konstantinos Plataniotis",
+     "Arash Mohammadi"
+    ],
+    "published": "2026-11-23T20:33:51Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31558",
+    "url": "https://arxiv.org/abs/2611.31558",
+    "title": "Denoising Diffusion with Progressive Posterior Sampling",
+    "abstract": "Diffusion models provide effective generative priors for solving noisy linear inverse problems. However, existing posterior sampling methods may require singular value decomposition (SVD) of the measurement operator or prior knowledge of the measurement noise variance, while guidance based on local gradients provides only a limited view of posterior geometry. We propose progressive posterior sampling (PPS) with manifold projection, which automatically estimates the measurement noise variance and avoids SVD. During reverse diffusion, PPS constructs a Gaussian approximation to the posterior distribution in closed form and guides a sample drawn from the local prior toward the approximate posterior mean. We then project the guided sample onto a spherical level set that approximates the local noisy image manifold, promoting consistency with the local geometry of the diffusion prior. Experiments on FFHQ and ImageNet across four restoration tasks and three measurement noise levels demonstrate competitive reconstruction accuracy and perceptual quality by PPS.",
+    "authors": [
+     "Zeyu Luo",
+     "Shuai Huang"
+    ],
+    "published": "2026-11-23T21:06:02Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI",
+     "cs.CV"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31605",
+    "url": "https://arxiv.org/abs/2611.31605",
+    "title": "Noise-Level Adjacency in Diffusion Training",
+    "abstract": "Diffusion models train one network across all noise levels, although their training objective is pointwise in the noise level. If training on each pair of adjacent levels were an independent problem, separate networks with the same total parameter count would be expected to match one shared network. But in practice, on images, sharing weights across levels gives better results, which hints at an implicit dependence on their order. An order fixes both which levels are adjacent and the direction in which they run. In this paper, we show that, of the two, the benefit of sharing rests on adjacency in the noise-level embedding. The fitting error of a shared network is bounded below by the distances between neighbouring posterior means, minus the change the network can make between neighbouring embeddings. We first distinguish adjacency from direction: on a Gaussian mixture and CIFAR-10, reversing the embeddings keeps every neighbour and leaves the fitting error unchanged, whereas shuffling them raises it. Second, we rule out sharing between distant levels as the source of the benefit: separate networks on contiguous ranges match the shared network at its width, and with the parameters fixed, breaking adjacency at the same places costs less than 40\\% of a full shuffle. Dividing the levels at equal shares of these distances lowers the error of all but the smallest networks. We therefore show that the order of the noise levels enters a diffusion model through adjacency, with its direction being a design choice. Our code is available at https://github.com/TSUITUENYUE/Noise-Level-Adjacency-in-Diffusion-Training.",
+    "authors": [
+     "T. Y. Tsui",
+     "Jiatao Gu",
+     "Lingjie Liu"
+    ],
+    "published": "2026-11-23T21:48:52Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31619",
+    "url": "https://arxiv.org/abs/2611.31619",
+    "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+    "abstract": "A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few public leaderboards carry most comparisons, yet none of them states how small a difference its datasets can detect. We call that quantity the resolution of a board and introduce Vernier, a tool that computes it from the files a board already publishes. Vernier also reports which entries a board cannot separate from its leader and whether its order changes when unrelated parties submit. GIFT-Eval resolves 6.8 rank places, and its displayed neighbours sit 0.91 apart. The ten places of its top ten hold fewer than two resolvable steps. fev-bench, Chronos Benchmark II and TIME show the same pattern: their resolution is 3.6 to 19 times the gap between neighbours. With each of its 2,554 series as an independent source, BOOM is the one board that resolves its top ten. Below the resolution the order depends on who else submitted: across four boards, rules that rank against the pool reversed 43 top-ten pairs with neither entry rerun, in one update in seven. Boards also do not record how much history a model receives. On 70 configurations, shortening it raised the error of three of four open models, two of them by 15%. We release Vernier, which runs this report with one command on any leaderboard that publishes per-dataset scores: https://github.com/therealram18/vernier",
+    "authors": [
+     "Arya Sikder",
+     "Sriram Pillutla"
+    ],
+    "published": "2026-11-23T22:05:17Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "stat.ME"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31640",
+    "url": "https://arxiv.org/abs/2611.31640",
+    "title": "Reward Basis Decomposition for Interpreting Preference Heterogeneity",
+    "abstract": "Canonical reward models specify the optimization target for AI policies, so understanding the values they encode is important for ensuring AI alignment. Existing interpretability techniques interpret reward models with a single reward head, which cannot distinguish between the values that a population shares and those that vary among individuals. We introduce Reward Basis Decomposition (RBD), which splits per-user weights into a population term and a per-user term. This yields a shared population direction and individual user directions that are analyzed separately via concept alignment and sparse autoencoder decomposition. We verify that RBD can recover artificially planted per-user directions on a synthetic control, then apply it to two real-world multi-preference datasets, PRISM and Community Alignment. In both, we find no individual-user structure, suggesting that a single direction in the reward embedding space accounts for most preferences. We verify that RBD can recover artificially planted per-user directions on a synthetic control, then apply it to two real-world multi-preference datasets, PRISM and Community Alignment. In both, we find no reliable predictive benefit from the fitted per-user terms beyond the shared population direction under our setup. Code and the synthetic dataset are available at https://github.com/RachelFreedman/RBD.",
+    "authors": [
+     "Mohamed I. Eldagla",
+     "Ifesi Onubogu",
+     "Prerana Rane",
+     "Harsh Sharma",
+     "Rachel Freedman"
+    ],
+    "published": "2026-11-23T22:29:04Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31661",
+    "url": "https://arxiv.org/abs/2611.31661",
+    "title": "Boundary Representation-Driven Graph Transformer Modeling for Machining Operation Sequencing",
+    "abstract": "Machining process planning is inherently complex due to the interdependence between part geometry, machining operations, and evolving manufacturable states. Traditional approaches rely heavily on expert knowledge and rule-based systems, limiting scalability and automation. While recent machine learning methods have shown promise, most operate on simplified geometric representations, such as voxels or hand-crafted features, which fail to fully exploit the rich geometric and topological information encoded in Boundary Representation (B-Rep) models. In this work, we propose a graph transformer-based framework for geometry-to-sequence learning that directly predicts machining operation sequences from B-Rep design geometry. The proposed method constructs topology-aware graphs from B-Rep entities, where faces and their adjacencies are encoded as node and edge features capturing both geometric and relational information. A graph neural network encoder learns geometry-aware embeddings, which are then used to condition a dual-decoder transformer that autoregressively generates machining operation sequences. This formulation enables the model to capture both operation-type prediction and process-level ordering constraints directly from design geometry, without requiring intermediate feature extraction or machining-state representations. Experiments on a dataset of 2,991 synthetic machined parts demonstrate strong performance, achieving 95% accuracy for main operation prediction, 64% accuracy for sub-operation prediction, and 93% accuracy for sequence length prediction. Further analysis shows that the model effectively captures precedence relationships and geometry-dependent constraints inherent in machining processes. These results highlight the potential of B-Rep-driven graph learning for scalable and automated machining process planning.",
+    "authors": [
+     "Fatemeh Elhambakhsh",
+     "Gaurav Ameta",
+     "Aditi Roy",
+     "Hyunwoong Ko"
+    ],
+    "published": "2026-11-23T22:45:26Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.CE"
+    ],
+    "topics": [
+     "ml-methods",
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.31731",
+    "url": "https://arxiv.org/abs/2611.31731",
+    "title": "Geo-SMILE: Statistical Model-Agnostic Interpretability with Local Explanations for Geospatial Machine Learning",
+    "abstract": "Conventional post-hoc explanation methods were developed largely for non-spatial inputs and often provide limited explicit treatment of geographic context. We introduce Geo-SMILE, a model-agnostic framework that distinguishes substantive Feature explanation from geographic-position response through complementary perturbation branches. The Feature branch masks substantive predictors while retaining observed coordinates; the Geo branch relocates geographic units while holding substantive predictors fixed. Following the statistical-distance-weighted surrogate principle of SMILE, input-distribution Wasserstein distances determine coalition locality weights and weighted Ridge surrogates approximate expected black-box predictions. GeoSensitivity, signed in the keep orientation, quantifies fitted-model responses to geographic-player relocation under the specified design. Across crime prediction in Hull, housing-price prediction in Seattle and ride-hailing demand in Chicago, held-out weighted surrogate fidelity ranges from $R_w^2=0.910$ to $0.989$ in the Feature branch and from $0.842$ to $0.906$ in the Geo branch. The framework makes geographic position an explicit object of post-hoc explanation while requiring separate assessment of interpretation, stability and reference dependence.",
+    "authors": [
+     "Shadieh Mohammadi",
+     "Koorosh Aslansefat"
+    ],
+    "published": "2026-11-24T00:36:49Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   },
+   {
+    "id": "2611.31870",
+    "url": "https://arxiv.org/abs/2611.31870",
+    "title": "Subliminal Learning Crosses Modalities",
+    "abstract": "Subliminal learning refers to a surprising phenomenon in language models wherein a prompt given to one model (e.g., preference for cats) can be subliminally distilled to another model via training on data that is ostensibly meaningless (e.g., number sequences). This paper shows that text-based subliminal learning transfers cross-modally, in particular, a topic/preference (e.g., animals) transferred through number sequences across vision-language models also changes how images are generated and represented. First, we show that a diffusion model using the student as its text encoder generates the student's animal more often than with the original model as its text encoder, but not its color or style. We then investigate the mechanism behind this phenomenon and which concepts transfer across modalities. A constant component of the student's change accounts for much of the shift of image representations toward the trait. Adding this component uniformly can change the generated animal, which depends on the whole prompt, but not concepts such as color or style, which are encoded in a single token. Finally, we introduce weight lens as an approach to identify a subliminal trait from the weights of a single trained model, and show that it identifies the trait of nearly every student, including traits that do not surface in generated images.",
+    "authors": [
+     "Saraswathy Amjith",
+     "Kimia Hamidieh",
+     "Antonio Torralba",
+     "Yoon Kim"
+    ],
+    "published": "2026-11-24T03:21:35Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.CL",
+     "cs.CV"
+    ],
+    "topics": [
+     "ml-methods"
+    ]
+   }
+  ],
+  "ml-genetics": [
+   {
+    "id": "2611.33094",
+    "url": "https://arxiv.org/abs/2611.33094",
+    "title": "Bayesian Learning of Spatially Heterogeneous Causal Structure in Spatial Transcriptomics",
+    "abstract": "Spatial transcriptomics preserves the location of each expression profile, making it possible to study how gene regulatory networks differ within a tissue. Across regions of a tissue, regulatory relationships may vary and even reverse direction, so identifying the causal relationships in a specific pathological region can provide insight into therapeutic targets. We propose SpaDAG, a Bayesian method for learning spatially varying causal directed acyclic graphs. By defining the graphs on a triangulation of the tissue, SpaDAG allows each edge to have its own spatial pattern and even to reverse direction across regions. We show that the graphs nonetheless remain fully identifiable, and develop an MCMC sampler that explores them efficiently by reversing an edge over an entire connected region in a single move. SpaDAG outperforms competing methods in simulations with and without direction reversals. In a section spanning a renal cell carcinoma and the adjacent kidney, SpaDAG finds largely different relationships in the two tissues, with those in the tumor concentrated on genes associated with therapeutic targets. Between two of these genes, it identifies a relationship whose direction reverses across the tumor boundary, generating hypotheses about their region-specific coupling. Supplementary materials and code for this article are available online.",
+    "authors": [
+     "Kyungwook Back",
+     "Junsouk Choi"
+    ],
+    "published": "2026-11-24T18:28:56Z",
+    "primary": "stat.ME",
+    "cats": [
+     "stat.ME",
+     "q-bio.GN",
+     "stat.AP"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.31451",
+    "url": "https://arxiv.org/abs/2611.31451",
+    "title": "A multimodal foundation model for tissue proteomics and morphology in cancer",
+    "abstract": "Cancer diagnosis, prognosis, and treatment decisions increasingly rely on integrating tissue morphology with specific molecular readouts of the tumor and its microenvironment. H&E histopathology provides scalable morphology, whereas multiplex spatial proteomics quantifies dozens of proteins in situ with spatial context, but remains selectively deployed, often with different marker panels across cohorts. This creates a translational bottleneck: most patients lack high-depth molecular profiling, and existing models rarely integrate morphology and spatial molecular data in a single framework. We present VirTues-M2, a multimodal foundation model that jointly learns from H&E and spatial proteomics using a novel vision transformer-based architecture. By encoding marker identity during pretraining, VirTues-M2 is robust to missing modalities, imperfect modality pairing or registration, and variable marker panels, enabling unified inference for tissue phenotyping, panoptic cell segmentation, virtual staining, annotation-free biomarker discovery, and reinforcement learning-based adaptive marker panel selection to reduce assay burden. As a concrete demonstration of translational utility, in a newly collected cohort of 1,053 treatment-naive non-small-cell lung cancer (NSCLC) patients with paired spatial proteomics and H&E, VirTues-M2 discovers high-risk and low-risk tissue signatures that stratify overall survival in both the discovery cohort and an independent validation cohort, outperforming current state-of-the-art stratification schemes; all enabled by VirTues-M2's ability to jointly analyze both modalities within a single model.",
+    "authors": [
+     "Benedikt von Querfurth",
+     "Lukas Klein",
+     "Cédric Vincent-Cuaz",
+     "Eeshaan Jain",
+     "Yexiang Cheng",
+     "Johann Wenckstern",
+     "Phil F. Cheng",
+     "Petros Liakopoulos",
+     "Olivier Michielin",
+     "Martina Haberecker",
+     "Andreas Wicki",
+     "Pascal Frossard",
+     "Charlotte Bunne"
+    ],
+    "published": "2026-11-23T19:25:07Z",
+    "primary": "q-bio.QM",
+    "cats": [
+     "q-bio.QM",
+     "cs.CV"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.31661",
+    "url": "https://arxiv.org/abs/2611.31661",
+    "title": "Boundary Representation-Driven Graph Transformer Modeling for Machining Operation Sequencing",
+    "abstract": "Machining process planning is inherently complex due to the interdependence between part geometry, machining operations, and evolving manufacturable states. Traditional approaches rely heavily on expert knowledge and rule-based systems, limiting scalability and automation. While recent machine learning methods have shown promise, most operate on simplified geometric representations, such as voxels or hand-crafted features, which fail to fully exploit the rich geometric and topological information encoded in Boundary Representation (B-Rep) models. In this work, we propose a graph transformer-based framework for geometry-to-sequence learning that directly predicts machining operation sequences from B-Rep design geometry. The proposed method constructs topology-aware graphs from B-Rep entities, where faces and their adjacencies are encoded as node and edge features capturing both geometric and relational information. A graph neural network encoder learns geometry-aware embeddings, which are then used to condition a dual-decoder transformer that autoregressively generates machining operation sequences. This formulation enables the model to capture both operation-type prediction and process-level ordering constraints directly from design geometry, without requiring intermediate feature extraction or machining-state representations. Experiments on a dataset of 2,991 synthetic machined parts demonstrate strong performance, achieving 95% accuracy for main operation prediction, 64% accuracy for sub-operation prediction, and 93% accuracy for sequence length prediction. Further analysis shows that the model effectively captures precedence relationships and geometry-dependent constraints inherent in machining processes. These results highlight the potential of B-Rep-driven graph learning for scalable and automated machining process planning.",
+    "authors": [
+     "Fatemeh Elhambakhsh",
+     "Gaurav Ameta",
+     "Aditi Roy",
+     "Hyunwoong Ko"
+    ],
+    "published": "2026-11-23T22:45:26Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.CE"
+    ],
+    "topics": [
+     "ml-methods",
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.31800",
+    "url": "https://arxiv.org/abs/2611.31800",
+    "title": "Learning Compact State Abstractions for LLM Agents",
+    "abstract": "LLM agents commonly use the full interaction history as a proxy for state, retaining all past observations and actions regardless of whether they remain relevant. We instead ask what information an agent actually needs to carry forward. We define agent state as a compact abstraction of interaction history that preserves the competence of a fixed reference agent, with the minimal such abstraction as the ideal. Because matching the reference agent's behavior is unnecessarily restrictive and difficult for black-box policies, we define sufficiency through task performance rather than behavior matching. We represent state abstractions as deterministic recursive programs and search over them using an LLM-guided genetic algorithm. Across ALFWorld and ScienceWorld, the learned abstractions preserve near-reference task success while reducing mean policy input by up to 71% and 57%, respectively. The resulting programs are directly inspectable, providing an explicit account of what information is retained, updated, and discarded during interaction.",
+    "authors": [
+     "Yaswanth Chittepu",
+     "Raghavendra Addanki",
+     "Anup Rao",
+     "Branislav Kveton",
+     "Scott Niekum"
+    ],
+    "published": "2026-11-24T01:52:56Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "cs.AI",
+     "cs.CL",
+     "cs.NE"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.31908",
+    "url": "https://arxiv.org/abs/2611.31908",
+    "title": "TQ-HQNet: A Trainability-Aware and Qubit-Efficient Hybrid Quantum Neural Network for Cross-Domain Learning on Heterogeneous Data",
+    "abstract": "Hybrid quantum neural networks are a promising direction for noisy intermediate-scale quantum computing, but their practical effectiveness is often limited by poor trainability, rigid circuit design, and weak robustness across heterogeneous real-world tasks. This paper proposes TQ-HQNet, a Trainability-Aware and Qubit-Efficient Hybrid Quantum Neural Network for cross-domain learning on heterogeneous data. The proposed framework combines three mechanisms: 1) adaptive latent compression to map domain-specific features into qubit-compatible representations, 2) trainability-aware search over compact variational circuit candidates, and 3) hybrid fusion of multiple shallow quantum experts to improve robustness without increasing qubit cost excessively. TQ-HQNet is evaluated on four public datasets spanning neurological screening, phishing detection, financial direction prediction, and DNA sequence classification. Across all domains, the proposed model consistently improves over a fixed hybrid quantum baseline, with balanced-accuracy gains of +0.280, +0.170, +0.071, and +0.060, respectively. Ablation and sensitivity studies confirm that gains arise from trainability-aware compact circuit selection and expert fusion, not circuit scaling. Although classical baselines outperform on some tasks, fixed-split results show consistent improvements over the fixed hybrid reference. These analyses support the practical role of compact selection and fusion, with repeated-split and hardware-aware studies left for future work.",
+    "authors": [
+     "Abdur Rasool",
+     "Saba Aslam",
+     "Hui Chen",
+     "Chayut Bunterngchit"
+    ],
+    "published": "2026-11-24T04:10:37Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.32168",
+    "url": "https://arxiv.org/abs/2611.32168",
+    "title": "Benchmarking Protein Structure Tokenizers as Generation Targets for Language Models",
+    "abstract": "Discrete structure tokenizers are the standard way to give a language model access to protein three-dimensional structure, yet they are selected on how accurately they can be read, their reconstruction fidelity, while the property that governs generation is how well a model can write them. We measure this property, writability, directly: holding the base model, data, recipe and compute fixed, we swap only the tokenizer and train the same 9B model to emit structure tokens residue by residue, over eight tokenizers, four compute budgets and three evaluation sets (96 cells). At 2B tokens final writability runs from TM 0.662 down to 0.378 under identical conditions, with five of the eight arms clearing the TM 0.5 mark at which a fold is usually called correct and three falling short of it. Neither codebook size nor reconstruction ceiling explains where an arm lands; the best and worst both use 8192 codewords. What does explain the spread is local structure preservation of the code space. In DPLM-2 a one-bit codeword error costs 0.019 TM where a random codeword costs 0.347, and the trained model's own errors are correspondingly local, at 0.51 of the random Hamming expectation; FoldToken4 fails both tests at the same codebook size and is 0.13 TM less writable. Three controls discipline how such a benchmark may be read. A same-recipe rerun puts the noise floor at $σ=0.0067$ TM, which collapses an apparent six-way ranking into four tiers. A reference-free geometry panel turns out to be nearly orthogonal to TM (Pearson $-0.58$), with the worst arm by TM producing the most physically valid backbones. And two pre-registered interventions are null for a reason the mechanism measurements reveal: the quantity they target saturates at 1.5B tokens while TM is still rising. All 131 evaluation cells, including raw generated token streams, are released.",
+    "authors": [
+     "Yong Liu",
+     "Zhanpeng Shi",
+     "Peicong Lin",
+     "Zhenyi Zhong",
+     "Yizhou Dang",
+     "Wendi Wu",
+     "Haoling Li",
+     "Jiayu Gu",
+     "Duo An",
+     "Shuangjia Zheng"
+    ],
+    "published": "2026-11-24T08:19:49Z",
+    "primary": "q-bio.QM",
+    "cats": [
+     "q-bio.QM",
+     "cs.AI"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   },
+   {
+    "id": "2611.32347",
+    "url": "https://arxiv.org/abs/2611.32347",
+    "title": "Beyond Hard Tokens: Predictive Memory for Multimodal Protein Generation",
+    "abstract": "Multimodal protein language models unify sequence and discrete structural tokens via iterative masked decoding, offering a promising paradigm for joint protein design. However, standard decoders rely on a memoryless mask reset at each iteration: only a sparse subset of newly committed hard tokens is carried forward, while all remaining unresolved sites are reset to an identical [MASK] embedding. In open-ended co-generation where neither modality provides a fixed external anchor, this stateless transition limits single-step refinement depth and deprives both tracks of stable cross-step soft anchors, leading to slow convergence or degenerative repetitive collapse. Observing that uncommitted predictions evolve with pronounced temporal coherence rather than erratic noise, we introduce Predictive Memory (PredMem), a training-free self-conditioning recurrence that carries these soft beliefs across steps. At each step, PredMem summarizes raw logits into a probability-weighted Top-$k$ expectation embedding at every residue and affinely interpolates it into eligible masked inputs on the next step at zero extra denoiser cost. Across DPLM-2, DPLM-2.1, and ESM3, PredMem raises unconditional sequence-structure co-generation success by 3.6, 17.7, and 48.7 percentage points, respectively, while improving the quality-diversity trade-off and suppressing repetitive mode collapse. Controlled diagnostics show that these gains stem primarily from early trajectory stabilization in unanchored cross-modal co-evolution rather than extra compute or simple entropy reduction, establishing PredMem as an efficient inference mechanism for multimodal discrete generation.",
+    "authors": [
+     "Xiaoliang Shi",
+     "Zichen Wang",
+     "Zhijian Wei",
+     "Zhanpeng Shi",
+     "Zhenghong Zhou",
+     "Yunpeng Wang",
+     "Shuangjia Zheng"
+    ],
+    "published": "2026-11-24T10:25:16Z",
+    "primary": "cs.LG",
+    "cats": [
+     "cs.LG",
+     "q-bio.BM"
+    ],
+    "topics": [
+     "ml-genetics"
+    ]
+   }
+  ]
+ }
+}
